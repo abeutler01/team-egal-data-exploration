@@ -1,1 +1,1 @@
-# team-egal-data-exporation
+# team-egal-data-exploration

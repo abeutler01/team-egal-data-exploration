@@ -1,0 +1,3725 @@
+data_index,text,cluster
+0,"hi, how are you doing?",36
+1,i'm fine. how about yourself?,23
+2,i'm pretty good. thanks for asking.,30
+3,no problem. so how have you been?,14
+4,i've been great. what about you?,23
+5,i've been good. i'm in school right now.,10
+6,what school do you go to?,1
+7,i go to pcc.,10
+8,do you like it there?,2
+9,it's okay. it's a really big campus.,34
+10,good luck with school.,6
+11,how's it going?,2
+12,i'm doing well. how about you?,23
+13,"never better, thanks.",4
+14,so how have you been lately?,7
+15,i've actually been pretty good. you?,23
+16,i'm actually in school right now.,16
+17,which school do you attend?,1
+18,i'm attending pcc right now.,0
+19,are you enjoying it there?,2
+20,it's not bad. there are a lot of people there.,8
+21,good luck with that.,8
+22,how are you doing today?,1
+23,i'm doing great. what about you?,23
+24,"i'm absolutely lovely, thank you.",48
+25,everything's been good with you?,2
+26,i haven't been better. how about yourself?,23
+27,i started school recently.,0
+28,where are you going to school?,2
+29,i'm going to pcc.,10
+30,how do you like it so far?,1
+31,i like it so far. my classes are pretty good right now.,30
+32,it's an ugly day today.,44
+33,i know. i think it may rain.,0
+34,"it's the middle of summer, it shouldn't rain today.",42
+35,that would be weird.,8
+36,"yeah, especially since it's ninety degrees outside.",42
+37,"i know, it would be horrible if it rained and it was hot outside.",48
+38,"yes, it would be. ",12
+39,i really wish it wasn't so hot every day. ,16
+40,me too. i can't wait until winter.,0
+41,"i like winter too, but sometimes it gets too cold.",9
+42,i'd rather be cold than hot.,16
+43,it doesn't look very nice outside today.,8
+44,you're right. i think it's going to rain later.,30
+45,"in the middle of the summer, it shouldn't be raining.",4
+46,that wouldn't seem right.,8
+47,"considering that it's over ninety degrees outside, that would be weird.",42
+48,"exactly, it wouldn't be nice if it started raining. it's too hot.",26
+49,"i know, you're absolutely right.",19
+50,i wish it would cool off one day.,0
+51,"that's how i feel, i want winter to come soon.",56
+52,"i enjoy the winter, but it gets really cold sometimes.",19
+53,"i know what you mean, but i'd rather be cold than hot.",11
+54,i wish it was a nicer day today.,35
+55,that is true. i hope it doesn't rain.,30
+56,it wouldn't rain in the middle of the summer.,8
+57,it wouldn't seem right if it started raining right now.,34
+58,it would be weird if it started raining in ninety degree weather.,44
+59,any rain right now would be pointless.,34
+60,"that's right, it really would be.",42
+61,i want it to cool down some.,0
+62,"i know what you mean, i can't wait until it's winter.",11
+63,winter is great. i wish it didn't get so cold sometimes though.,30
+64,it's such a nice day.,34
+65,"yes, it is.",12
+66,it looks like it may rain soon.,34
+67,"yes, and i hope that it does.",48
+68,why is that?,1
+69,i really love how rain clears the air.,31
+70,me too. it always smells so fresh after it rains.,31
+71,"yes, but i love the night air after it rains.",11
+72,really? why is it?,33
+73,because you can see the stars perfectly.,44
+74,i really hope it rains today.,35
+75,isn't it a nice day?,7
+76,it really is.,8
+77,it seems that it may rain today.,52
+78,hopefully it will.,6
+79,how come?,2
+80,i like how clear the sky gets after it rains.,35
+81,i feel the same way. it smells so good after it rains.,31
+82,i especially love the night air when it rains.,35
+83,really? why?,33
+84,the stars look so much closer after it rains.,44
+85,i really want it to rain today.,31
+86,don't you think it's nice out?,2
+87,"yes, i think so too.",9
+88,i think that it's going to rain.,16
+89,i hope that it does rain.,16
+90,you like the rain?,1
+91,the sky looks so clean after it rains. i love it.,16
+92,i understand. rain does make it smell cleaner.,31
+93,i love most how it is at night after it rains.,35
+94,how come?,2
+95,you can see the stars so much more clearly after it rains.,52
+96,i really want to go to the beach this weekend.,35
+97,that sounds like fun. what's the weather going to be like?,49
+98,i heard that it's going to be warm this weekend.,35
+99,is it going to be perfect beach weather?,7
+100,i believe so.,10
+101,good. i hope it doesn't cool off this weekend.,41
+102,i know. i really want to go to the beach.,16
+103,but you know that california weather is really unpredictable.,52
+104,"you're right. one minute it's hot, and then the next minute it's cold.",4
+105,i really wish the weather would just stay the same.,31
+106,i do too. that way we can have our activities planned ahead of time.,52
+107,i would like to take a trip to the beach this weekend.,35
+108,a trip to the beach would be fun. how is the weather going to be?,49
+109,the forecast says that it will be warm on the weekend.,52
+110,so do you think it'll be perfect weather for the beach?,7
+111,it sounds like it will be.,6
+112,i really hope it doesn't get cold.,0
+113,"that would ruin things, i want to go so badly.",11
+114,"the weather in california is unpredictable, so you never know.",47
+115,that is true. the weather is constantly changing.,34
+116,it would be nice if the weather would never change.,34
+117,"that would be great, then we could plan things sooner.",47
+118,it would be nice to go to the beach sometime this weekend.,8
+119,what's the weather going to be like? i may want to go too.,23
+120,the weather this weekend is supposed to be warm.,34
+121,will it be good beach weather?,7
+122,i think it will be.,10
+123,it wouldn't be good if it got cold this weekend.,6
+124,"i want this trip to be perfect, i hope it stays warm.",56
+125,"this california weather is so uncertain, it's impossible to know what'll happen.",52
+126,i know. every day the weather seems different.,30
+127,i would love it if it wasn't always so unpredictable.,35
+128,"hello, may i speak to alice please?",60
+129,this is she. how's it going?,20
+130,i've been trying to call you all day.,35
+131,sorry about that. i was cleaning up.,16
+132,it's okay.,8
+133,so what were you calling me about?,38
+134,"oh, i just wanted to see if you wanted to hang out tomorrow.",11
+135,"sure, what did you want to do?",57
+136,maybe we can go see a movie or something.,44
+137,that sounds like fun. let's do it.,54
+138,i'll see you tomorrow then.,10
+139,"hi, how are you. is alice there?",57
+140,speaking. what's up?,49
+141,why haven't you answered the phone?,7
+142,"my bad, i had chores to do.",48
+143,that's all right.,34
+144,what was the reason for your call?,51
+145,i want to do something tomorrow with you.,0
+146,sounds good. what did you have in mind?,49
+147,i was thinking about seeing a movie.,16
+148,"okay, let's go see a movie.",42
+149,until then.,6
+150,is alice available?,13
+151,you're talking to her.,8
+152,i've called you a hundred times today.,35
+153,i was busy doing something. i apologize.,0
+154,no problem.,6
+155,did you need something?,2
+156,do you want to do something tomorrow?,1
+157,is there somewhere special you wanted to go?,7
+158,how about a movie?,7
+159,a movie sounds good.,8
+160,have you seen the new girl in school?,1
+161,"no, i haven't.",19
+162,she's really pretty.,8
+163,describe her to me.,10
+164,she's not too tall.,8
+165,"well, how tall is she?",36
+166,she's about five feet even.,8
+167,"what does she look like, though?",36
+168,she has pretty light brown eyes.,8
+169,i may know which girl you're talking about.,35
+170,so you have seen her around?,7
+171,"there's a new girl in school, have you seen her yet?",57
+172,i haven't seen her yet.,0
+173,i think that she is very pretty.,0
+174,tell me how she looks.,10
+175,she's kind of short.,6
+176,what height is she?,1
+177,she's probably about five feet.,34
+178,"that's nice, but tell me what she looks like.",48
+179,the first thing i noticed was her beautiful brown eyes.,0
+180,i think i might've bumped into her before.,10
+181,are you telling me that you've seen her before?,24
+182,have you met the new girl?,1
+183,no. have you?,14
+184,she's one of the prettiest girls at the school.,8
+185,what does she look like?,1
+186,"well, she's quite short.",12
+187,how tall would you say that she is?,51
+188,i would say she's only five feet.,0
+189,what about her facial features?,13
+190,"she has light brown eyes, absolutely beautiful.",47
+191,i think i know who you're talking about.,0
+192,why weren't you at school yesterday?,7
+193,i wasn't really feeling well.,0
+194,what was wrong with you?,1
+195,my stomach was upset.,8
+196,do you feel better now?,2
+197,i don't really feel too well yet.,0
+198,do you want anything to make you feel better?,51
+199,"no, thanks. i already took some medicine.",11
+200,i hope you feel better.,10
+201,what reason do you have for missing school?,51
+202,i was sick.,10
+203,how were you sick?,2
+204,i had a stomachache.,31
+205,did it get any better?,1
+206,i'm still feeling under the weather.,0
+207,would you like anything for your stomach?,7
+208,i took something earlier.,16
+209,get better.,6
+210,why didn't you go to school yesterday?,1
+211,i stayed home because i wasn't feeling well.,0
+212,what was your problem?,1
+213,my stomach was bothering me.,0
+214,are you feeling any better?,1
+215,i'm still feeling a little sick.,0
+216,"i'm going to the store, would you like any pepto bismol?",46
+217,that's okay.,34
+218,did you hear the good news?,1
+219,"no, i haven't.",19
+220,i got a promotion at my job.,16
+221,did you really?,1
+222,"seriously, i am so excited.",9
+223,"well, congratulations.",42
+224,thank you.,8
+225,i'm so happy for you.,0
+226,really?,1
+227,yes. you really deserved this.,54
+228,you think so?,2
+229,have you heard my good news?,7
+230,you haven't told me anything yet.,16
+231,i got a promotion at work earlier this week.,35
+232,is that right?,1
+233,it's the truth. i am really happy.,30
+234,congratulations on your promotion.,34
+235,thank you very much.,8
+236,i am really excited for you.,0
+237,are you really?,1
+238,i'm serious. you deserved this promotion.,41
+239,is that what you really think?,51
+240,"i haven't told you what happened yet, have i?",60
+241,i haven't heard anything.,35
+242,"my boss offered me a promotion, and i took it.",56
+243,are you serious?,2
+244,"yes, i am really excited.",19
+245,that's great. congratulations.,34
+246,i appreciate that.,35
+247,you have no idea how happy i am for you.,35
+248,you look really nice today. ,34
+249,thank you. i just got this outfit the other day.,30
+250,"really, where did you get it?",36
+251,i got it from macy's.,0
+252,it's really nice.,8
+253,"thanks again. you look nice today, too.",47
+254,thank you. i just got these shoes today.,30
+255,really? what kind of shoes are they?,1
+256,these are called all star chuck taylors.,52
+257,i really like those. how much did they cost?,23
+258,they were about forty dollars.,34
+259,i absolutely love what you're wearing today.,31
+260,you do? i just bought this outfit a couple days ago.,23
+261,"seriously, it looks really nice on you. where did you buy it from?",57
+262,i bought it from the macy's at the santa anita mall.,52
+263,i really like that outfit.,16
+264,"thanks. i think you look nice today, too.",48
+265,thank you. i just bought these new shoes earlier today.,16
+266,those are nice. what are they?,14
+267,these are some chucks.,6
+268,those are great. how much were they?,14
+269,i got them for forty.,10
+270,i think that you look very cute today.,16
+271,is that right? this is a brand new outfit.,49
+272,what store did you get it from?,1
+273,i went to macy's and picked it out.,16
+274,i love your outfit right now.,10
+275,"well, i think you look nice today too.",19
+276,thanks. i found these new shoes earlier at the store.,16
+277,i think that those are some really nice shoes. what kind are they?,23
+278,these are chucks.,6
+279,your shoes look really nice. how much did you get them for?,14
+280,"tell me, what do you enjoy doing in your spare time?",60
+281,i enjoy drawing and painting.,35
+282,you know how to draw and paint?,51
+283,"yes, i do.",9
+284,when did you learn how to do that?,7
+285,i learned back in high school.,16
+286,"oh, so you took an art class?",25
+287,"yeah, i loved that class.",11
+288,i see that you're pretty talented.,16
+289,thank you very much.,8
+290,i wish i had a talent like that.,16
+291,what kinds of things do you like to do?,1
+292,i've always liked to draw and paint.,31
+293,i didn't know you knew how to draw and paint.,35
+294,i do it every once in a while.,0
+295,how long have you known how to do that?,7
+296,i first learned how to do it in high school.,0
+297,did you take some sort of art class or something?,51
+298,that was my favorite class.,44
+299,you have got to be talented.,34
+300,thanks.,8
+301,if only i was talented.,0
+302,are there any hobbies you do?,1
+303,"when i have time, i sometimes draw and paint.",11
+304,"oh, you actually do that?",25
+305,"every so often, i do.",9
+306,did you always know how to draw and paint?,13
+307,i was taught in high school how to draw and paint.,31
+308,you had an art class?,13
+309,"exactly, it was my favorite class.",47
+310,"well, it's good that you're so talented.",42
+311,i appreciate that.,35
+312,what's your favorite movie?,7
+313,my favorite movie is superbad.,34
+314,"oh, why is that?",36
+315,it's the funniest movie that i've ever seen.,0
+316,that's true. it is a very funny movie.,8
+317,you've seen it before? ,2
+318,"yes, i saw that movie the first day it came out in theaters.",11
+319,didn't you laugh through the whole movie? i did.,23
+320,me too. that movie brought tears to my eyes.,30
+321,mine too.,6
+322,i have it on dvd at my house if you want to come over and watch it.,31
+323,which movie is your favorite to watch?,7
+324,"i have to say, my favorite movie is superbad.",11
+325,is that right? why?,33
+326,"honestly, it is one of the funniest movies i've seen in a long time.",19
+327,you're right. that movie is hilarious.,8
+328,i didn't think you saw that movie.,0
+329,i went to see it the day it came out.,0
+330,i was laughing through the whole movie.,0
+331,"i couldn't help laughing, either. ",19
+332,same here.,8
+333,i bought the movie. would you like to come to my house and watch it?,23
+334,"out of every movie that you've seen, which one is your favorite?",57
+335,i'm going to have to say that superbad is the best movie ever.,31
+336,"you think so, how come?",36
+337,"well, superbad is super funny.",4
+338,"you're not lying, i found that movie absolutely hilarious.",11
+339,i didn't know that you saw superbad before.,16
+340,i made sure to be in line to see it the first day it came out.,16
+341,i couldn't keep from laughing throughout the whole movie.,0
+342,i was laughing hysterically the whole time; my stomach muscles hurt afterwards.,31
+343,that's exactly how i felt.,16
+344,what type of music do you like to listen to?,1
+345,i like listening to different kinds of music.,10
+346,"like what, for instance?",57
+347,i enjoy rock and r&b.,0
+348,why is that?,1
+349,i like the different instruments that they use.,0
+350,that's a good reason to like something.,44
+351,what kind of music do you enjoy listening to?,1
+352,i enjoy listening to all kinds of music.,0
+353,what kind?,1
+354,i like to listen to rock and r&b.,0
+355,why do you like that type of music?,1
+356,i like the kinds of instruments that they use.,0
+357,i think that's an excellent reason to like something.,35
+358,what is your favorite kind of music?,7
+359,i listen to various types of music.,0
+360,what genres?,1
+361,i enjoy listening to both rock and r&b.,0
+362,what interests you in that type of music?,7
+363,i enjoy the different types of instruments that they use.,0
+364,did you go to the basketball game on friday?,13
+365,"no, i couldn't make it.",19
+366,you missed a really good game.,44
+367,"oh, really? who won?",36
+368,our school did. they played really well.,8
+369,too bad i was busy. i really wanted to go.,16
+370,"yeah, you should have. it was really exciting.",26
+371,so what was the score?,1
+372,the score was 101-98.,58
+373,"man, that was a really close game.",47
+374,that's what made it so great.,52
+375,were you able to attend friday night's basketball game?,39
+376,i was unable to make it.,16
+377,you should have been there. it was intense.,54
+378,is that right. who ended up winning?,14
+379,our team was victorious.,8
+380,i wish i was free that night. i'm kind of mad that i didn't go.,50
+381,it was a great game.,44
+382,what was the score at the end of the game?,51
+383,our team won 101-98.,37
+384,sounds like it was a close game.,34
+385,that's the reason it was such a great game.,52
+386,i was meaning to ask you if you saw the basketball game on friday.,31
+387,"i wanted to go, but i couldn't.",28
+388,it was a great game.,44
+389,it's too bad that i couldn't make it. who won?,23
+390,our team played hard and won.,52
+391,i really wish i went to the game.,0
+392,it was the best game ever.,8
+393,so tell me the final score.,0
+394,"the other team lost by three points, 101-98. ",4
+395,it must've been a close game.,34
+396,what are you doing this weekend?,1
+397,i'm going to the movies with a friend. how about you?,23
+398,i'm not sure yet.,10
+399,"well, did you want to go see a movie with me?",60
+400,what movie are you going to see?,1
+401,i'm not sure yet. is there something you want to see?,23
+402,there's nothing i can think of.,0
+403,"so, did you want to go?",36
+404,"no, thanks, maybe another time.",45
+405,do you know what you're going to do this weekend?,1
+406,i am going to see a movie with a friend of mine. what about you?,23
+407,i don't know.,10
+408,would you like to see a movie with me and my friend?,38
+409,do you know what movie you're going to watch?,7
+410,"i don't know, but was there a certain movie you wanted to see?",60
+411,none that i can think of.,16
+412,"well, would you like to go?",36
+413,"thank you for inviting me, but i think i'll pass.",28
+414,you have any ideas as to what you want to do this weekend?,39
+415,i'm going to the movie theater with my friend. what are you going to do?,23
+416,i'm not quite sure yet.,10
+417,how about you see a movie with me and my friend?,38
+418,what movie are you and your friend planning on watching?,13
+419,not sure. is there a movie out that catches your eye?,49
+420,no good movies come to mind.,6
+421,have you decided whether or not you would like to go?,1
+422,did you go to school today?,1
+423,"yeah, i went to school today. were you there?",46
+424,"no, i didn't go, i've been sick.",29
+425,that sucks. did you want the assignments from english class?,49
+426,"that would be nice, thank you.",42
+427,"no problem, you're welcome.",12
+428,i will be glad to do the same for you when you're sick.,16
+429,have you attended school today?,51
+430,i attended school today. did you?,23
+431,i wasn't able to attend school because i was feeling ill.,16
+432,i'm sorry to hear that. would you like the assignments from english class?,23
+433,"i would really appreciate that, thanks.",59
+434,it's no trouble at all.,34
+435,"if you get sick, i'll return the favor.",19
+436,have you gone to school today?,7
+437,i went to school today. did you go to school?,23
+438,"i couldn't go to school today, i was sick.",28
+439,that's horrible. i'd be happy to give you the assignments from english class.,31
+440,"thank you very much, that's kind of you.",42
+441,don't mention it.,6
+442,did you hear the news?,1
+443,what happened?,7
+444,our cousin went into labor and had her baby last week.,52
+445,she did? why didn't anyone tell me?,33
+446,i would've thought that somebody would have told you.,16
+447,"no, i had no idea.",48
+448,"well, she did, her baby was 8 pounds 6 ounces.",4
+449,"oh my god, that's great!",59
+450,are you going to go and visit her and the baby?,51
+451,i think that i might.,50
+452,good! i just thought i'd let you know.,18
+453,have you heard what happened?,13
+454,heard what?,7
+455,debrah already had her baby.,52
+456,i didn't know that.,0
+457,i thought you knew.,10
+458,i honestly didn't know.,10
+459,the baby was 8 pounds 6 ounces.,8
+460,that's good to hear.,34
+461,will you go and visit them?,1
+462,of course i will.,10
+463,i just wanted to give you the good news.,0
+464,have you heard the news?,7
+465,i haven't heard anything.,35
+466,debrah had her baby last week.,52
+467,nobody told me.,10
+468,i thought you heard.,0
+469,i really wasn't told anything.,16
+470,she was a cute 8 pounds 6 ounces.,8
+471,"wow, how exciting.",12
+472,"i know, you should really go and see her and the baby.",11
+473,of course i will.,10
+474,did you go to school today?,1
+475,of course. did you?,20
+476,"i didn't want to, so i didn't.",28
+477,"that's sad, but have you gone to the movies recently?",25
+478,that's a switch.,34
+479,"i'm serious, have you?",46
+480,"no, i haven't. why?",46
+481,i really want to go to the movies this weekend.,16
+482,so go then.,6
+483,i really don't want to go by myself.,16
+484,"well anyway, do you plan on going to school tomorrow?",25
+485,did you make it to school today?,7
+486,i always do. did you go to school today?,23
+487,"no, i didn't.",9
+488,"you should have, but have you seen any movies lately?",25
+489,that was an odd change of subject.,44
+490,"maybe it was, but answer the question.",42
+491,"no, not recently.",12
+492,i want to go to see a movie this weekend.,16
+493,what's stopping you then?,1
+494,i don't want to go alone.,16
+495,"so, will you be at school tomorrow?",36
+496,did you even bother to go to school today?,1
+497,"yeah, i went. did you go?",46
+498,"no, i didn't feel like it.",9
+499,"that's nice, have you been to the movies lately?",25
+500,"no, but that was a random change of subject.",47
+501,"it may have been random, but have you?",25
+502,i haven't lately.,16
+503,i would love to catch a movie this weekend.,16
+504,"so then, why don't you just go?",36
+505,i don't want to see a movie by myself.,16
+506,thanks for coming to see me today.,16
+507,it's no problem. i was really missing you anyway.,16
+508,i missed you too.,10
+509,why haven't you tried to come see me then?,24
+510,i've been really busy.,0
+511,doing what?,1
+512,working.,6
+513,"i would've come to see you sooner, but i've been busy too.",29
+514,what have you been doing?,7
+515,i've been working too.,10
+516,"well regardless, i'm very happy that you came to see me.",56
+517,i'm really glad that you came to see me.,16
+518,i had to. i was missing you a lot.,0
+519,i was missing you too.,10
+520,"so, why haven't you visited me?",46
+521,i've actually been busy lately.,35
+522,what have you been doing?,7
+523,i've just been working really hard.,16
+524,i've also been busy.,0
+525,tell me what you've been doing.,0
+526,"basically, i've been working too.",48
+527,"well whatever, i'm glad you came.",48
+528,i'm really happy that you came to visit me.,16
+529,i really missed you a lot.,16
+530,i've been missing you like crazy.,0
+531,i don't understand why you haven't come to visit me.,0
+532,"lately, i've been quite busy.",19
+533,tell me what you've been up to.,0
+534,i've really been working a lot lately.,35
+535,i've been pretty busy myself.,10
+536,so what have you been up to?,7
+537,i've just been working a lot.,0
+538,"hey, did you hear about jessica's party this weekend?",25
+539,"yeah, but i'm still waiting for my invitation.",11
+540,oh really? she gave me mine earlier today.,23
+541,"well, she'll probably just give me my invitation later on today.",11
+542,"yeah, so are you planning on going?",57
+543,i think so. it sounds like it's going to be a lot of fun.,30
+544,"it really does, i can't wait.",11
+545,what time does the party start?,51
+546,it starts at 8 o'clock.,34
+547,"oh, well, how many people has she given invites to so far?",57
+548,"i'm not sure, but i don't think she's given out that many.",56
+549,have you heard about jessica's party on saturday?,39
+550,"i've heard about it, but i'm still waiting for my invitation.",11
+551,really? i got mine from her this morning.,23
+552,i'm guessing that she's going to give me my invite today or tomorrow.,0
+553,"you're probably right, do you intend on going to the party?",57
+554,i want to. i heard it's going to be really fun.,16
+555,"i know, it does sound pretty awesome.",19
+556,"well, when does the party start?",57
+557,it's supposed to start at about eight.,44
+558,how many invitations has she given out?,51
+559,"i really don't know, but i don't think she gave out that many yet.",56
+560,has anyone told you about jessica's party coming up?,13
+561,i was told about it already. i'm just waiting for my invitation.,35
+562,is that right? i already got my invitation from her earlier.,49
+563,i believe that she will give me the invitation today.,16
+564,are you even going to go?,2
+565,"yeah, it sounds like it's going to be the best party of the year.",47
+566,"exactly, it seems like it's going to be loads of fun.",42
+567,when exactly does the party start?,51
+568,the invitation says it starts at 8:00 p.m.,34
+569,has she given out a lot of invitations yet?,51
+570,"hey, what's up?",36
+571,nothing really.,8
+572,i'm throwing a party on friday.,35
+573,i didn't realize that.,16
+574,you didn't?,2
+575,nobody has told me anything about your party.,31
+576,did you want to go?,1
+577,when does it start?,1
+578,at 8:00 p.m.,54
+579,i'll be there.,10
+580,i'd better see you there.,10
+581,what's going on with you?,1
+582,fine. what's going on with you?,14
+583,i'm having a party this friday.,31
+584,i had no idea.,16
+585,is that right?,1
+586,i didn't hear anything about it.,35
+587,can you go?,1
+588,what time?,1
+589,it starts at 8 o'clock.,34
+590,i'll go.,10
+591,i hope that i'll see you there.,50
+592,what's going on?,1
+593,not much.,6
+594,"this friday, i'm throwing a party.",11
+595,oh really? i didn't know that.,23
+596,are you serious?,2
+597,i haven't heard anything about it.,31
+598,can you make it?,7
+599,what time does it start?,7
+600,the party starts at 8.,44
+601,"yeah, i think i'll go.",28
+602,what's going on?,1
+603,"nothing really, you?",36
+604,i'm throwing a party next saturday.,31
+605,is that right?,1
+606,"yeah, are you going to come?",36
+607,"i'm sorry, i can't.",28
+608,why not?,2
+609,i don't really want to.,16
+610,"well, why don't you?",36
+611,i hate going to parties.,16
+612,"well, that's okay.",42
+613,what's up?,1
+614,"nothing, how about you?",36
+615,"next saturday, i'm going to have a party.",59
+616,"oh, really?",36
+617,you are coming?,2
+618,probably not.,8
+619,why is that?,1
+620,i don't feel like going.,10
+621,why not?,2
+622,i really can't stand going to parties.,31
+623,"i understand, i guess.",28
+624,what's happening?,7
+625,"not a lot, what about you?",25
+626,i'm having a party next saturday.,31
+627,that's nice.,8
+628,are you going to be there?,2
+629,i don't think so.,10
+630,is there a reason why?,7
+631,i just really don't want to go.,16
+632,how come?,2
+633,i don't really like parties.,16
+634,what's up?,1
+635,"nothing much, what's going on?",36
+636,i'm having a party this friday.,31
+637,"oh, really? that's nice.",57
+638,i wanted to see if you wanted to come.,16
+639,"this friday? sorry, i already have plans.",60
+640,doing what?,1
+641,i'm going to dinner with my family.,0
+642,"i really wanted you to come, but i understand.",56
+643,"yeah, maybe next time.",42
+644,i'll hold you to that.,0
+645,"hey, what's good with you?",36
+646,not a lot. what about you?,49
+647,i'm throwing a party on friday.,35
+648,that sounds like fun.,8
+649,do you think you can come?,1
+650,i'm sorry. i'm already doing something this friday.,16
+651,what are you going to be doing?,1
+652,my family and i are going to dinner.,16
+653,i was hoping you would come.,10
+654,i'll definitely try to make it the next time.,0
+655,i'd better see you there.,10
+656,what's going on?,1
+657,nothing really. how about you?,49
+658,"a lot, like the party i'm having on friday.",11
+659,"well, that's cool.",4
+660,will you be able to make it?,7
+661,i'm busy this friday. i'm sorry.,0
+662,what do you have to do?,7
+663,i'm having dinner with my family,35
+664,maybe you can come next time.,34
+665,i'll make sure and come to your next party.,35
+666,it was nice talking to you.,8
+667,why are you trying to rush me off the phone?,33
+668,i really have to go.,16
+669,why? i still wanted to talk to you.,23
+670,i have things to do.,0
+671,like what?,1
+672,don't be nosey.,6
+673,i'm not. i just want to know.,0
+674,"well, it's really none of your business.",4
+675,that's harsh.,34
+676,"i'm sorry, but i have to go.",28
+677,i've enjoyed conversing with you.,10
+678,is there a reason why you're trying to get off the phone so fast?,51
+679,i've got to go.,10
+680,i wasn't done talking to you.,0
+681,"i have to do some things, and besides, it's not polite to be nosey.",19
+682,i'm not being nosey. i'm just asking.,0
+683,i really don't think it's any of your business.,16
+684,that's not nice.,8
+685,"i apologize, but i'm getting off the phone now.",28
+686,i'll talk to you later.,16
+687,what's the rush?,1
+688,i have to get off the phone now.,0
+689,i'm not ready to get off the phone with you.,0
+690,there are other things i need to take care of.,16
+691,what is it that you need to do? ,7
+692,please don't be nosey.,8
+693,"i'm not being nosey, it's just a question.",19
+694,you don't need to worry about that.,34
+695,that was mean to say.,44
+696,"well, it was nice talking to you.",4
+697,it was nice talking to you too.,8
+698,we should really hang out again.,52
+699,that would be fun.,8
+700,where do you want to go?,1
+701,i think we should go out to eat.,0
+702,that sounds good.,8
+703,"all right, so i'll see you then.",19
+704,i'll call you later.,16
+705,"okay, i'll talk to you later then.",11
+706,see you later.,8
+707,i enjoyed talking to you.,0
+708,i enjoyed talking to you too.,0
+709,we should hang out some time.,8
+710,i think that would be nice.,0
+711,is there anything you would like to do next time?,1
+712,do you want to go out to eat?,7
+713,i'd like that.,0
+714,so i'll see you next time.,10
+715,i'm going to call you soon. ,0
+716,i'll talk to you later.,16
+717,see you soon.,6
+718,i had fun talking to you.,16
+719,it was really nice talking to you also.,44
+720,i think we should really do something sometime.,0
+721,that should be loads of fun.,34
+722,what do you want to do next time?,7
+723,would you like to go to dinner or something?,2
+724,"yeah, let's do that.",42
+725,"okay, until next time then.",4
+726,i'll call you so we can set that up.,35
+727,talk to you then.,8
+728,where do you live?,2
+729,i live in pasadena.,35
+730,where is pasadena?,51
+731,it's in california.,34
+732,is it in northern california?,7
+733,no. it's in southern california.,8
+734,is pasadena a big city?,13
+735,it's pretty big.,6
+736,"how big is """"pretty big""""?",5
+737,"it has about 140,000 people.",42
+738,how big is los angeles?,1
+739,do you have a car?,51
+740,"yes, i do.",9
+741,what kind of car do you have?,51
+742,i have a honda.,35
+743,is it new?,2
+744,it was new in 2003.,6
+745,"so, it's pretty old now.",12
+746,"yes, it is. but it still looks good.",12
+747,do you take good care of it?,7
+748,"oh, yes. i wash it once a week.",48
+749,do you change the oil?,1
+750,do you have a girlfriend?,7
+751,"no, i don't. do you?",46
+752,"i don't have a girlfriend, either.",48
+753,why not?,2
+754,i don't know. maybe i'm not rich enough.,0
+755,girls like guys with money.,6
+756,they sure do.,6
+757,they like guys with new cars.,8
+758,i don't have money or a new car.,35
+759,"me, neither.",9
+760,but girls like guys who are funny.,6
+761,where are you going?,2
+762,i have to walk the dog.,16
+763,what kind of dog do you have?,7
+764,i have a little poodle.,16
+765,poodles bark a lot.,34
+766,they sure do.,6
+767,they bark at everything.,34
+768,they never shut up.,6
+769,why did you get a poodle?,1
+770,it's my mom's dog.,6
+771,so she likes poodles.,6
+772,can i borrow $5?,24
+773,sure. why do you need it?,20
+774,i want to buy lunch.,0
+775,where's your money?,2
+776,it's not in my wallet.,8
+777,your wallet is empty?,1
+778,i don't have even one dollar in it.,16
+779,being broke is no fun.,8
+780,even if it's only for a short while.,8
+781,it's always good to have friends.,44
+782,friends will lend you money when you're broke.,6
+783,let's go to the beach.,8
+784,that's a great idea.,52
+785,we haven't been in a while.,34
+786,we haven't been in a month.,34
+787,"the last time we went, you almost drowned.",42
+788,"no, i didn't.",9
+789,then why did the lifeguard dive into the water?,7
+790,i think he wanted to cool off.,0
+791,he swam right up to you.,8
+792,and then he turned right around.,34
+793,maybe you're right.,8
+794,are you married?,1
+795,no. i'm divorced.,41
+796,when did you get divorced?,2
+797,i got divorced two years ago.,16
+798,why did you get divorced?,2
+799,my wife left me.,0
+800,why did she leave you?,1
+801,she said she didn't love me anymore.,16
+802,wow! that's terrible.,58
+803,"yes, it was.",12
+804,why didn't she love you anymore?,1
+805,i'm bored.,10
+806,what's on tv?,1
+807,nothing.,6
+808,there must be something on tv!,21
+809,nothing that's interesting.,8
+810,what about that new game show?,13
+811,which one?,2
+812,deal or no deal,52
+813,tell me you're joking.,10
+814,i love that show.,0
+815,i watched it once. that was enough.,30
+816,i like living here.,10
+817,i agree. pasadena is a nice city.,31
+818,it's not too big.,6
+819,and it's not too small.,34
+820,it has great weather all year long.,52
+821,it has the rose parade.,44
+822,it has beautiful houses.,34
+823,it has wonderful restaurants.,44
+824,it has great schools.,34
+825,it's close to the mountains.,8
+826,the people are friendly.,6
+827,we need a new mattress.,34
+828,what's the matter with this one?,7
+829,it's not comfortable.,8
+830,it seems fine to me.,10
+831,i toss and turn all night.,16
+832,you should stop drinking coffee.,6
+833,look at these marks on my arms.,44
+834,what are they?,1
+835,they are bites.,6
+836,did the cat bite you?,1
+837,no. the bedbugs in that mattress bit me.,30
+838,my laptop is so slow.,8
+839,buy a new one.,8
+840,i would if i had the money.,50
+841,why is it so slow?,2
+842,that's a good question.,34
+843,did you take it to a computer shop?,7
+844,i would if i had the money.,50
+845,"well, i guess you have to live with it.",19
+846,sometimes i want to throw it out the window.,0
+847,you don't want to do that.,34
+848,why not?,2
+849,what's for dinner?,1
+850,i'm not sure.,10
+851,how about a pizza?,51
+852,you had pizza for lunch.,34
+853,but i love pizza.,0
+854,everybody loves pizza.,8
+855,so why can't i have pizza for dinner?,38
+856,because you need variety.,34
+857,"what's """"variety?",5
+858,different thingsÂ—not the same thing all the time.,34
+859,"you mean, like a pepperoni pizza instead of a cheese pizza?",25
+860,we need to save money.,8
+861,why do we need to save money?,1
+862,because we need to buy a house.,34
+863,but a house is so expensive.,8
+864,that's why we need to save money.,34
+865,how much do we need to save?,1
+866,we need to save enough for a down payment.,44
+867,how much is that?,1
+868,"that's about $30,000.",42
+869,thirty thousand dollars! that will take forever.,37
+870,not if we save every penny.,8
+871,the ocean is so big.,8
+872,you can't see the end of it.,8
+873,it goes on and on forever.,8
+874,"and it's deep, too.",4
+875,i think it's five miles deep.,10
+876,are there fish at the bottom?,1
+877,there are fish at the top and the bottom.,34
+878,are there more fish or more people?,2
+879,i think there are more fish.,10
+880,i'm upset with my mom.,10
+881,why is that?,1
+882,i warned her about her new boyfriend. she didn't listen to me.,0
+883,what happened?,7
+884,"i gave her $1,000 for her birthday. i told her to spend it on herself.",28
+885,that was very nice of you.,8
+886,i found out that she gave it to her new boyfriend.,0
+887,why did she do that?,1
+888,he said he would buy her a nice ring.,34
+889,what's wrong with that?,7
+890,he went to las vegas. he lost it all gambling.,34
+891,do animals talk to each other?,13
+892,of course they talk to each other.,34
+893,what do they talk about?,51
+894,they talk about other animals.,52
+895,what else do they talk about?,51
+896,they talk about food and the weather.,52
+897,do they talk about us?,7
+898,of course they talk about us.,34
+899,what do they say about us?,51
+900,they say that we are funny-looking.,37
+901,ha! we're not funny-looking; animals are funny-looking.,37
+902,i have to clean the house.,16
+903,"yes, it's very dirty.",12
+904,you can help me.,0
+905,why me?,33
+906,because you helped make it dirty.,34
+907,what do you want me to do?,38
+908,i want you to clean the bathroom.,35
+909,"oh, that's easy.",42
+910,"clean the sink, the tub, the counter, and the toilet.",45
+911,that's a lot of work.,34
+912,tell me when you finish.,10
+913,you're watching too much tv.,8
+914,what do you mean?,7
+915,i mean you're wasting your life.,16
+916,i'm having fun.,0
+917,you're sitting there with your mouth open.,6
+918,who cares?,1
+919,i care. do something.,30
+920,okay. i did something.,30
+921,what did you do?,1
+922,i turned up the volume.,10
+923,"that's not what i meant by """"do something.",5
+924,did you write a letter to grandma?,51
+925,"yes, i did.",9
+926,did you tell her about school?,1
+927,i told her that school is fun.,0
+928,did you put the letter in an envelope?,1
+929,"yes, and i sealed the envelope.",48
+930,did you put a stamp on the envelope?,7
+931,i couldn't find any stamps.,16
+932,they're in the kitchen drawer.,8
+933,okay. i just put a stamp on the envelope.,16
+934,"give me the envelope, and i'll mail it for you.",56
+935,why are you yawning?,1
+936,i'm sleepy.,10
+937,why don't you go to bed?,2
+938,i want to watch this tv show.,16
+939,maybe you should record it.,8
+940,the tape recorder is broken.,34
+941,then you should watch the rerun.,8
+942,why? i'm watching the original.,23
+943,but you'll be asleep in about one minute.,34
+944,i'm just yawning because the commercials are on.,35
+945,okay. i'll tell you how the show ends.,30
+946,it's sunday.,8
+947,so?,2
+948,you know what that means.,44
+949,i forgot.,10
+950,sunday means we go to church.,34
+951,"oh, yeah.",4
+952,put on a coat and tie.,44
+953,why?,2
+954,to show respect to god and others.,8
+955,i'm glad sunday is only once a week.,35
+956,i hope god didn't hear that.,16
+957,did you feed the cat?,1
+958,i'll do that in a minute.,16
+959,the cat is meowing. he's hungry.,54
+960,okay. i'll feed him right now.,30
+961,you shouldn't make him wait.,34
+962,i was doing my homework.,10
+963,the cat doesn't care about your homework.,44
+964,the cat doesn't care about anything.,52
+965,that's the way cats are.,44
+966,all they think about is themselves.,34
+967,maybe we should get rid of him.,8
+968,i hate shaving.,16
+969,me too.,10
+970,i just cut myself again.,16
+971,did you use a new blade?,7
+972,"it doesn't matter. old blades cut, new blades cut.",26
+973,maybe you should use an electric shaver.,44
+974,"they make a lot of noise, but they don't give a close shave.",47
+975,maybe you should stop shaving.,34
+976,and grow a beard?,51
+977,sure. why not?,20
+978,because food and other stuff sticks in my beard.,44
+979,excuse me.,10
+980,yes?,2
+981,are you reading this paper?,7
+982,"oh, no. help yourself.",12
+983,i asked because the paper is sitting next to you.,35
+984,thank you. that's polite of you to ask.,27
+985,some people would just pick it up.,6
+986,"yes, i know. some people are rude.",15
+987,i always try to be polite.,16
+988,so do i.,6
+989,the world needs more polite people like us.,6
+990,"mom, i want a puppy.",48
+991,let me think about it.,0
+992,why do you have to think about it?,7
+993,because a puppy costs money.,34
+994,"no, it doesn't. puppies are free.",12
+995,"yes, but a puppy needs shots.",4
+996,shots for what?,1
+997,so it won't get sick. just like you get shots.,6
+998,i hate shots.,0
+999,and a puppy eats food. food costs money.,27
+1000,no problem. i'll give him food off my plate.,30
+1001,look at all these kittens!,32
+1002,how many are there?,1
+1003,eight.,6
+1004,they're all so cute.,8
+1005,"yes, but i can't keep them.",19
+1006,what are you going to do with them?,1
+1007,i'm going to give them away. do you want one?,23
+1008,"yes, i would love one.",9
+1009,which one do you want?,1
+1010,that one. the one that's all black.,34
+1011,"yes, i like that one, too.",19
+1012,my parents go to church every sunday.,34
+1013,they trust in god.,6
+1014,they hope they will go to heaven.,8
+1015,they probably will.,8
+1016,but no one knows for sure.,6
+1017,that's for sure.,8
+1018,no one knows what happens after we die.,44
+1019,"if we are good, we will be happy in heaven with god.",42
+1020,that's what many people believe.,44
+1021,"if we are bad, we will be unhappy forever in hell.",42
+1022,i don't want to go to hell.,0
+1023,my husband died.,8
+1024,i'm sorry for you.,10
+1025,thank you.,8
+1026,when did he die?,2
+1027,a couple of months ago.,34
+1028,you still miss him.,6
+1029,"yes, but i talk to him almost every day.",11
+1030,when you go to church?,2
+1031,"no, when i call him on his cell phone.",19
+1032,what do you mean?,7
+1033,i buried him with his cell phone.,10
+1034,today is friday the thirteenth.,34
+1035,that's a bad day.,52
+1036,it's supposed to be unlucky.,6
+1037,you're supposed to stay home all day.,44
+1038,that's what i do.,16
+1039,my friend stayed in a hotel on friday the thirteenth.,44
+1040,that was a mistake.,44
+1041,he stayed on the thirteenth floor.,8
+1042,what happened?,7
+1043,someone stole his laptop.,34
+1044,he was asking for it.,8
+1045,do you really love me?,24
+1046,of course.,6
+1047,prove it.,6
+1048,how can i prove it?,24
+1049,take me to dinner.,0
+1050,that's it? that's all i have to do?,38
+1051,"take me to a nice restaurant, not to mcdonald's.",59
+1052,but a nice restaurant costs money.,44
+1053,"yes, and you have to make a reservation.",47
+1054,that's such a hassle.,44
+1055,i knew you didn't love me.,10
+1056,my parents are divorced.,8
+1057,so are mine.,6
+1058,why did your parents get divorced?,1
+1059,my father found a new girlfriend.,34
+1060,that's too bad.,34
+1061,my mother was hurt and angry.,34
+1062,she had good reason. what did she do?,49
+1063,she told him to drop his girlfriend.,6
+1064,what did your father do?,7
+1065,he moved out of our house.,6
+1066,i guess he really liked his new girlfriend.,0
+1067,my grandma's apartment smells funny.,52
+1068,so does mine.,6
+1069,i think it's an old people's smell.,0
+1070,really?,1
+1071,"yes. i think when you get old, you begin to smell.",15
+1072,like fruit that is too ripe?,1
+1073,"yes, just like fruit that is too ripe.",4
+1074,but the smell is different.,6
+1075,"yes, old people don't smell like fruit.",12
+1076,"no, they smell like a thrift shop.",4
+1077,"yes, a thrift shop has that same smell.",47
+1078,the price of stamps goes up and up.,34
+1079,i think stamps used to cost a penny.,16
+1080,that was a long time ago.,44
+1081,it was before i was born.,0
+1082,now a stamp is 42 cents.,34
+1083,but in may it will be 44 cents.,8
+1084,have you ever lost a letter in the mail?,51
+1085,"no, i haven't.",19
+1086,neither have i.,8
+1087,"so, they do a good job for the money.",4
+1088,"yes, they do.",12
+1089,a button came off my shirt.,8
+1090,what are you going to do?,1
+1091,"first, i have to find the button.",19
+1092,where did you lose it?,2
+1093,i have no idea.,16
+1094,a button is hard to find. did you look in your pant cuffs?,49
+1095,that's a good idea.,44
+1096,i found a button in my pant cuffs one time.,16
+1097,"let me look. no, it's not there.",15
+1098,many shirts come with an extra button.,44
+1099,you're right. this one does have an extra button.,27
+1100,i have to go to the bathroom.,16
+1101,you drink too much coffee.,6
+1102,but i love coffee.,10
+1103,"well, it's your life.",12
+1104,you eat too much chocolate.,34
+1105,i don't think so.,10
+1106,have you looked in the mirror?,1
+1107,do you think i'm getting fat?,24
+1108,i didn't say that.,16
+1109,what did you say?,7
+1110,i said i have to go to the bathroom.,16
+1111,did you do the laundry?,1
+1112,"yes, i did.",9
+1113,what did you wash?,7
+1114,i washed the sheets and towels.,16
+1115,what about the pillowcases?,51
+1116,"yes, i took them off the pillows and washed them.",11
+1117,did you dry everything in the dryer?,2
+1118,"yes, i dried everything in the dryer.",9
+1119,then what did you do?,1
+1120,i folded all the towels.,0
+1121,did you put the sheets on the beds?,2
+1122,do you listen to the radio?,1
+1123,i listen day and night.,16
+1124,what do you listen to?,1
+1125,mostly talk radio.,34
+1126,what's that?,7
+1127,people talk about current events.,34
+1128,what do they say?,7
+1129,they say they want change.,44
+1130,what kind of change?,7
+1131,they want tax cuts.,34
+1132,why do they want tax cuts?,7
+1133,"mom, i'm hungry.",9
+1134,look in the fridge.,6
+1135,i'm looking. there's nothing to eat.,30
+1136,are you sure?,2
+1137,it's almost empty.,8
+1138,i went to the market yesterday.,16
+1139,i don't see anything.,0
+1140,i bought lots of oranges and apples.,35
+1141,i don't want fruit. i want something tasty.,16
+1142,eat the fruit. it's good for you.,54
+1143,"next time you go to the market, let me go with you.",19
+1144,what is there to eat?,7
+1145,i don't know. look in the fridge.,41
+1146,i think i'll make a sandwich.,16
+1147,what kind?,1
+1148,a ham sandwich.,44
+1149,the bread is in the cabinet.,34
+1150,where's the mustard?,1
+1151,"it's in the fridge, i think.",9
+1152,"oh, yes, here it is. do you want a sandwich?",57
+1153,"yes, that sounds nice.",4
+1154,how about some potato chips?,7
+1155,"it's time for your bath, young lady.",42
+1156,"but, mom, i'm not dirty.",9
+1157,you need a bath every day.,44
+1158,why?,2
+1159,because you don't want to smell bad.,44
+1160,i don't smell bad.,0
+1161,that's what you think.,34
+1162,"if i smelled bad, i could smell me.",28
+1163,i can smell you.,0
+1164,"i can smell you, too.",19
+1165,that's my perfume.,8
+1166,something's wrong with my computer.,6
+1167,exactly what?,7
+1168,all i get is a black screen.,35
+1169,what's the matter?,7
+1170,"i think i know, because this happened before.",56
+1171,what happened before?,7
+1172,my hard drive crashed.,34
+1173,"oh, no. that's bad news.",26
+1174,"it sure is, but i'm going to call hp first, just to make sure.",19
+1175,will you lose all your files?,1
+1176,"no, i always back up my files.",11
+1177,i called hp about my computer.,16
+1178,what did they say?,7
+1179,they said i need a new hard drive.,35
+1180,that's too bad. how much is a new one?,49
+1181,"it's not too much, only about $85.",4
+1182,plus installation?,7
+1183,"no, my hard drive is easy to remove and replace.",47
+1184,really?,1
+1185,"yes, it's just a couple of screws.",4
+1186,that's nice.,8
+1187,it's a lot better than paying someone $60.,37
+1188,what's your email address?,51
+1189,it's bluedog123.,6
+1190,bluedog123. are you sure that's all?,49
+1191,yes.,6
+1192,no. that's incomplete.,54
+1193,what do you mean?,7
+1194,what's your mailing address?,51
+1195,"456 cherry drive, pasadena, ca 91170.",42
+1196,that's correct.,8
+1197,so what's the problem?,1
+1198,"bluedog123 is just the street. you have to give me the city, state, and zip code.",48
+1199,i'm going to take a nap.,35
+1200,you should unplug the phone.,6
+1201,that's a good idea.,44
+1202,do you want me to wake you in an hour?,38
+1203,"no, thanks. just let me sleep until i wake up.",48
+1204,i'll start dinner at 6:00.,16
+1205,okay. i think i'll be awake by then.,16
+1206,"if not, your nose will wake you up.",4
+1207,you mean i will smell the food cooking?,24
+1208,you might even dream about dinner.,34
+1209,i don't think i'm going to dream about anything. i'm really tired.,16
+1210,that was a nice funeral.,44
+1211,"yes, dad, it was.",4
+1212,the son gave a nice speech about his father.,44
+1213,"it was long, too.",12
+1214,i think it was about 45 minutes long.,0
+1215,but it went by fast. it was interesting.,54
+1216,i liked it.,10
+1217,"i'll give you a speech like that, too.",48
+1218,do you think anyone will come to my funeral?,7
+1219,of course.,6
+1220,i think only the family will be there.,0
+1221,yikes! what was that noise?,7
+1222,i had to blow my nose.,0
+1223,did you have to blow right next to the phone?,1
+1224,did you hear that?,7
+1225,of course i heard that. i thought a plane had crashed into your house.,35
+1226,it wasn't that loud.,8
+1227,"i will blow my nose sometime for you, and you'll see.",19
+1228,okay. i'll take your word for it.,30
+1229,i thought you had an elephant in your house.,35
+1230,you're funny.,6
+1231,what did you say? i think i've gone deaf.,23
+1232,i have lots of friends.,0
+1233,really? how many do you have?,7
+1234,"i don't know, maybe one hundred.",19
+1235,that is a lot of friends. do you have a best friend?,49
+1236,of course. i have lots of best friends.,30
+1237,how many best friends do you have?,7
+1238,i think about twenty-five.,58
+1239,hmm. i have only one best friend.,30
+1240,i feel sorry for you.,10
+1241,i have only a few friends.,16
+1242,you must be lonely. i will share my friends with you.,30
+1243,don't you ever cheat on me.,0
+1244,why would i do that?,24
+1245,because men like to cheat.,44
+1246,"some men do, but not me.",19
+1247,i'm watching you.,0
+1248,i'm an open book. watch me all you want.,16
+1249,"if i catch you, you'll be sorry.",19
+1250,"you won't catch me, because i love you. i'm not a cheater.",56
+1251,i will poke your eyes out. ,10
+1252,i don't want any other woman.,35
+1253,"i will chop your toes off, one by one.",9
+1254,i hate to go outside.,0
+1255,me too.,10
+1256,why do you hate to go outside?,1
+1257,i meet too many jerks.,0
+1258,i agree.,0
+1259,this city is full of jerks.,6
+1260,rude people are everywhere.,6
+1261,but what can you do?,7
+1262,you can yell at them.,34
+1263,and they will yell back at you.,44
+1264,yelling doesn't do any good.,8
+1265,will you look at this form?,1
+1266,are you having problems with it?,1
+1267,i don't understand some things.,0
+1268,let me help you.,10
+1269,"what does """"mi"""" mean?",5
+1270,"mi"""" stands for middle initial.",5
+1271,"what does """"mm/dd/yy"""" mean?",5
+1272,that means month/day/year. use numbers.,34
+1273,i don't understand.,0
+1274,"for example, if your birth date is january 12, 1987, write 01/12/87.",45
+1275,oh. that's simple enough.,54
+1276,let's go to the animal shelter.,34
+1277,what do you want to do?,7
+1278,i want to get a puppy for my son.,16
+1279,that will make him so happy.,44
+1280,i'll get him one of those little dogs.,10
+1281,one that won't grow up too big.,8
+1282,and eat too much.,34
+1283,do you know which one he would like?,2
+1284,"oh, yes, i took him there yesterday. he showed me one that he really liked.",48
+1285,i bet you had to drag him away.,31
+1286,he wanted to take it home yesterday.,44
+1287,what's the weather like?,7
+1288,i don't know. i just woke up.,0
+1289,why don't you look outside?,2
+1290,okay. it looks like rain.,8
+1291,why do you say that?,7
+1292,the sky is gray.,8
+1293,is it raining right now?,1
+1294,no.,6
+1295,how do you know?,2
+1296,the street isn't wet.,6
+1297,i have to go shopping today.,16
+1298,i can't believe how hot it is.,0
+1299,it's not even noon yet.,6
+1300,that means it will get hotter.,34
+1301,i am dying from the heat.,0
+1302,turn on the air conditioner.,8
+1303,it doesn't work.,6
+1304,what happened?,7
+1305,i don't know.,10
+1306,did you call the repairman?,51
+1307,of course.,6
+1308,when is he coming?,2
+1309,i'll be glad when winter comes.,0
+1310,why is that?,1
+1311,because i love the snow.,0
+1312,"yes, the snow is fun.",12
+1313,last year we made a big snowman.,52
+1314,how big was it?,2
+1315,it was seven feet tall.,8
+1316,how long did it take?,1
+1317,it took us all day.,44
+1318,did you give him a nose?,1
+1319,of course. we gave him a big carrot for a nose.,27
+1320,i'm going to the bank.,0
+1321,what do you need to do?,1
+1322,i need to withdraw some money.,0
+1323,how are you going to do that?,1
+1324,i'll just use the atm.,0
+1325,what's that?,7
+1326,it's the automatic teller machine.,44
+1327,it gives you money?,2
+1328,i just insert my debit card into the machine.,16
+1329,and it gives you money?,1
+1330,"well, it gives me money, but it's my own money.",9
+1331,did you put the blue bin out on the street?,2
+1332,"oh, no. i forgot.",15
+1333,"well, you'd better take it out front.",4
+1334,what time does the recycle truck come by?,1
+1335,"it usually gets here at noon on tuesday, which is tomorrow.",47
+1336,i'll just take it out to the street tomorrow morning.,0
+1337,"oh, no, you don't.",12
+1338,what do you mean?,7
+1339,every morning you get up late and rush off to work late.,44
+1340,do you think i'll forget to do it?,33
+1341,"you'll remember to do it, but you won't have time to do it.",4
+1342,are you ready?,1
+1343,ready for what?,7
+1344,ready for the big switch.,8
+1345,what are you talking about?,51
+1346,the nation is switching to digital tv.,34
+1347,oh. of course i'm ready.,30
+1348,did you buy the converter?,2
+1349,"no, i don't need a converter because i bought a digital tv.",11
+1350,how much was that?,1
+1351,it was only about $120 for a 13-inch screen.,37
+1352,does it pick up any digital channels?,51
+1353,people are funny.,6
+1354,they sure are.,6
+1355,did you hear about the pilot?,7
+1356,the one that stole a small plane?,13
+1357,"yes, he stole a plane in canada and flew into the u.s.",3
+1358,did they catch him?,1
+1359,"yes. after two u.s. fighter jets followed him for an hour, he landed on a highway.",26
+1360,did he crash?,1
+1361,"no, he just landed the plane and walked to a restaurant.",52
+1362,did the cops find out why he flew into the u.s.?,14
+1363,his life sucked. he was hoping a fighter jet would shoot him down.,54
+1364,the police need our help finding a robber.,8
+1365,how do you know?,2
+1366,the tv news is reporting a bank robbery.,34
+1367,do they know what the robber looks like?,1
+1368,"yes, he's 6 feet tall, 200 pounds, black hair, and about 30 years old.",45
+1369,what race is he?,7
+1370,they didn't say.,8
+1371,the tv news doesn't tell us the race anymore.,34
+1372,of course not. that would be racist.,8
+1373,but how can we identify someone if we don't know their race?,7
+1374,don't ask me.,0
+1375,don't wipe your nose on your sleeve.,6
+1376,but i don't have a tissue.,16
+1377,then go find a tissue in the bathroom.,34
+1378,i didn't have time to get one from there.,0
+1379,your sleeves are not tissues.,6
+1380,"but mom, all my friends use their sleeves.",4
+1381,that doesn't make it right.,34
+1382,i saw dad wipe his nose on his sleeve yesterday.,16
+1383,i will talk to your father about that.,31
+1384,i bet dad did it all the time when he was my age.,35
+1385,your daddy was a good little boy.,34
+1386,i'm worried.,10
+1387,worried about what?,7
+1388,i'm getting married.,0
+1389,"you should be happy, not worried.",4
+1390,"i am happy, but marriage is a lot of responsibility.",11
+1391,"yes, you have to take care of your wife.",47
+1392,and i have to take care of our children.,31
+1393,are you going to start a family?,51
+1394,yes. we want to have a little boy and a little girl.,3
+1395,that sounds wonderful.,8
+1396,except we can't afford it!,32
+1397,i don't get art.,0
+1398,or artists.,8
+1399,they're in a different world.,8
+1400,i saw a painting of a jar that was full of pencils.,31
+1401,the artist said the jar was both full and empty.,52
+1402,but it was full of pencils! how could he say it was empty?,43
+1403,artists see things differently.,8
+1404,did you ever see anything that picasso painted?,13
+1405,of course! he's world famous.,58
+1406,did he ever take art lessons?,7
+1407,i can't believe it. i drew paintings like that in third grade.,35
+1408,what's the point?,1
+1409,the point of what?,1
+1410,of living.,6
+1411,"who knows? you live, and then you die.",57
+1412,we must be here for some reason.,8
+1413,maybe we're here to have fun.,34
+1414,then why aren't i having fun?,24
+1415,because you're thinking too much.,8
+1416,so i should stop thinking?,33
+1417,stop thinking about what the point is.,34
+1418,okay. i'll start thinking about having some fun.,31
+1419,beer is a powerful drug.,8
+1420,so are cigarettes.,8
+1421,which would you prefer?,2
+1422,what do you mean?,7
+1423,"when you die and go to heaven, they will offer you beer or cigarettes.",47
+1424,i could pick only one or the other?,33
+1425,"yes. nothing's perfect, not even in heaven.",4
+1426,"boy, that's a tough one.",42
+1427,"what's so tough about it? of course, i would pick cigarettes.",60
+1428,but cigarettes taste much better when you have a cold beer.,52
+1429,"well, you can't have everything.",42
+1430,my pants have a hole in the front pocket.,44
+1431,you shouldn't carry pens in your pocket.,8
+1432,yesterday a pen fell through my pants onto my shoe.,52
+1433,lucky for you it wasn't a sharp knife.,34
+1434,who carries a sharp knife in their pocket?,51
+1435,"criminals, of course.",4
+1436,"anyway, i have to fix the hole.",11
+1437,you can sew it up or use an iron-on patch.,37
+1438,tell me about this patch.,16
+1439,the patch has glue. the hot iron melts the glue so the patch sticks on.,27
+1440,that sounds a lot easier than sewing.,52
+1441,do you know any good jokes?,1
+1442,i can't remember jokes.,0
+1443,neither can i.,8
+1444,they go in one ear and out the other.,34
+1445,who makes up all these jokes?,7
+1446,who knows? but there must be a hundred new ones every day.,49
+1447,"yes, just in english alone.",4
+1448,i wonder if every language has jokes.,35
+1449,of course! people everywhere like good jokes.,58
+1450,what do you think people joke about the most?,7
+1451,i think most jokes are about women.,16
+1452,you're very lucky.,6
+1453,why do you say that?,7
+1454,you speak two languages.,44
+1455,"well, my english isn't perfect.",12
+1456,no one speaks perfect english.,8
+1457,maybe i will be the first!,18
+1458,i've been thinking about learning spanish.,35
+1459,spanish is easy. i'll be happy to teach you.,31
+1460,how long will it take me to learn?,38
+1461,i think it will only take you a year or two.,35
+1462,how soon can we begin?,1
+1463,do you know what today is?,7
+1464,"yes, it's april 22.",4
+1465,it's more than just a date.,44
+1466,is it your birthday or anniversary?,51
+1467,"no, it's earth day.",42
+1468,what's that?,7
+1469,it's a yearly reminder to take care of our planet.,52
+1470,"oh, you mean like reuse things and recycle stuff?",57
+1471,"yes. we need to think green, save water, and stop using plastic bags.",47
+1472,how about if i take shorter showers?,38
+1473,"that's a good idea, because showers waste a lot of water.",52
+1474,poetry sucks.,6
+1475,i don't know anyone who likes it.,0
+1476,"some of it is okay, i guess.",19
+1477,"yes, the poems that rhyme and are easy to remember.",47
+1478,"like """"one, two, buckle my shoe.",5
+1479,but people still write poems.,6
+1480,no one makes any money at it.,44
+1481,shakespeare was a poet.,44
+1482,did he get rich from his poetry?,2
+1483,probably not.,8
+1484,poems are a little bit like songs.,8
+1485,how smart are you?,1
+1486,i don't know. i think i'm average.,50
+1487,did you ever take an iq test?,7
+1488,"no, i never did. all i know is that i got a's and b's in school.",56
+1489,i wish i was really smart.,0
+1490,don't be ridiculous.,6
+1491,what do you mean?,7
+1492,"if you're going to make a wish, wish that you were really rich or famous.",47
+1493,don't you ever wonder what it's like to be super-smart?,43
+1494,it must be very lonely.,6
+1495,why's that?,1
+1496,i missed the tv news last night. what was on?,23
+1497,nothing that would pass as news.,44
+1498,what's the weather going to be like this weekend?,7
+1499,"i don't know. whenever the weather comes on, i switch channels.",48
+1500,what was the lead story on the news?,7
+1501,some actress was in court for driving without a license.,34
+1502,what was the second story?,1
+1503,some actor married a woman young enough to be his daughter.,52
+1504,what was the third story?,1
+1505,a bull chased a man in a supermarket.,52
+1506,wasn't there anything about octo-mom?,43
+1507,what are you going to do about your death?,51
+1508,"well, mostly i'll try to avoid it.",19
+1509,"i mean, are you going to get buried or cremated?",60
+1510,my wife and i will be cremated.,16
+1511,are you going to be buried next to each other?,1
+1512,"oh, no. our ashes will be shaken into the ocean.",26
+1513,you're not going to be buried?,2
+1514,a coffin costs too much and takes up too much space.,52
+1515,"yes, but it will be in a cemetery where your children can visit you.",42
+1516,children seldom visit their parents in a cemetery.,34
+1517,"that's true. a cemetery is for dead people, not living people.",26
+1518,did you wipe your feet? ,2
+1519,"yes, of course i wiped my feet.",9
+1520,then why is there mud on the carpet?,1
+1521,i don't know. it's not my mud.,41
+1522,"well, someone brought it into the house.",12
+1523,look at the bottom of my shoesÂ—they're clean.,34
+1524,of course they're clean. you left all the mud on the carpet.,34
+1525,"okay, i'll get the vacuum cleaner.",11
+1526,don't vacuum it now.,8
+1527,don't you want me to clean up the mud?,38
+1528,wait till it dries. it will be easier to vacuum.,27
+1529,what are you getting for your mom?,1
+1530,what are you talking about?,51
+1531,sunday is mother's day.,34
+1532,this sunday?,1
+1533,of course. it's all over the news.,54
+1534,i thought it was next sunday.,0
+1535,"well, you'd better get her something.",12
+1536,i'll get her a nice card.,16
+1537,is that it?,1
+1538,yes. that's all i ever give her.,30
+1539,"she raised you, and all you ever give her is a card?",25
+1540,i don't like our flag.,0
+1541,what's the matter with it?,7
+1542,it's too much like other flags.,8
+1543,"yes, a lot of flags have stripes.",47
+1544,a flag should be pretty.,34
+1545,what should our flag look like?,7
+1546,it should have a pretty woman on it.,44
+1547,that's ridiculous!,32
+1548,you don't like pretty women?,1
+1549,of course i do. but not on our flag!,58
+1550,every nation should have a pretty woman on their flag.,52
+1551,i had a busy morning.,16
+1552,what did you do?,1
+1553,i watered all the plants.,35
+1554,you have a lot of plants.,44
+1555,then i did my laundry.,0
+1556,that takes some time.,34
+1557,i took the dog for a walk.,35
+1558,i'll bet he enjoyed his walk.,0
+1559,i vacuumed the entire house.,0
+1560,that's a lot of work.,34
+1561,and then i made lunch.,16
+1562,i don't have long distance service with my home phone.,16
+1563,so how do you make long distance calls?,51
+1564,i use a calling card.,35
+1565,where do you get that?,1
+1566,i buy it at the dollar store.,16
+1567,how much is it?,2
+1568,it's one dollar for 100 minutes.,8
+1569,that's only a penny a minute!,32
+1570,it's a great price. but you have to dial a lot of numbers.,3
+1571,how many?,1
+1572,"first you dial seven numbers, then ten numbers, then ten more numbers.",4
+1573,do you go to college?,2
+1574,"yes, i do.",9
+1575,what college do you go to?,1
+1576,i go to pasadena city college.,35
+1577,do you like it?,2
+1578,"oh, yes, i really like it.",19
+1579,why do you like it?,2
+1580,because it has great teachers.,52
+1581,what else?,1
+1582,"i like all my classmates, too.",11
+1583,anything else?,1
+1584,i lost my new pen.,10
+1585,where did you lose it?,2
+1586,i don't know.,10
+1587,when did you lose it?,2
+1588,i think i lost it today. i used it yesterday.,50
+1589,did you check all your pockets?,1
+1590,i checked all my pockets.,0
+1591,did you look in your desk?,2
+1592,"yes. it isn't there, either.",12
+1593,it's probably around somewhere.,34
+1594,"oh, well, it only cost me a dollar.",19
+1595,gravity is very important.,34
+1596,what is gravity?,7
+1597,it's the force that pulls everything down.,8
+1598,i don't understand.,0
+1599,"if you pour water into a glass, the water goes down into the glass.",47
+1600,of course it does.,6
+1601,"without gravity, the water would go up.",42
+1602,you're joking.,6
+1603,"without gravity, you would go up.",4
+1604,what do you mean?,7
+1605,you would float into the sky like a balloon.,44
+1606,i can't read my book.,16
+1607,turn on the light.,6
+1608,the light is on.,6
+1609,open the book.,6
+1610,the book is open.,6
+1611,see an eye doctor.,8
+1612,that's what i need to do.,16
+1613,he'll give you a prescription for glasses.,34
+1614,i'll make an appointment tomorrow.,35
+1615,i'll get the yellow pages for an eye doctor.,16
+1616,read the phone number to me.,0
+1617,what do you need for school?,1
+1618,i need pencils.,10
+1619,anything else?,1
+1620,i need a notebook.,0
+1621,do you need a pen?,1
+1622,no. i already have a pen.,31
+1623,do you need a calculator?,51
+1624,no. the teacher doesn't permit calculators.,27
+1625,how about a dictionary?,51
+1626,"no, we have a big dictionary in the classroom.",47
+1627,"well, i guess that's it.",19
+1628,i like this magazine.,16
+1629,so do i.,6
+1630,"i read it once, and i subscribed.",56
+1631,it gives you all the news.,8
+1632,all the news in only 50 pages.,34
+1633,i like the political cartoons.,16
+1634,i like the beautiful photos of the houses for sale.,16
+1635,i always read the film reviews.,35
+1636,i never miss the food and drink section.,0
+1637,i gave a subscription to my parents.,16
+1638,me too. they canceled their other news magazines.,16
+1639,my pen is out of ink.,6
+1640,shake it a couple of times.,34
+1641,i shook it. there is no more ink.,30
+1642,you can borrow mine.,8
+1643,thank you. i'll buy a new one tomorrow.,30
+1644,what were you doing?,1
+1645,i was writing a letter.,0
+1646,who were you writing to?,2
+1647,it's to my mom.,6
+1648,tell her i said hello.,0
+1649,okay. i'll return your pen when i'm done.,0
+1650,have you done your homework?,1
+1651,not yet.,6
+1652,then why are you watching tv?,1
+1653,this is my favorite show.,8
+1654,go do your homework.,6
+1655,"but, mom!",9
+1656,you can watch tv after you do your homework.,44
+1657,but the show will be over.,6
+1658,there will be another show next week.,8
+1659,please?,1
+1660,you know the rules.,6
+1661,i can't wait until i graduate.,16
+1662,me too.,10
+1663,no more homework.,6
+1664,i hate homework.,0
+1665,are you going to college?,2
+1666,i can't afford it.,16
+1667,me neither.,10
+1668,so what are you going to do?,1
+1669,i'm joining the army.,0
+1670,you're kidding. you might get killed.,6
+1671,"i don't think so. after i finish, i'll have enough money to go to college.",28
+1672,what is your major?,7
+1673,english.,6
+1674,what are you going to do with an english major?,51
+1675,i'm going to be a teacher.,16
+1676,high school or middle school?,2
+1677,high school.,6
+1678,i teach high school english.,0
+1679,i didn't know that.,0
+1680,i started teaching five years ago.,31
+1681,how do you like it?,2
+1682,do you see all this gray hair? it was totally black five years ago.,39
+1683,parking at school is impossible.,34
+1684,i'll say.,0
+1685,i drove around for half an hour.,35
+1686,did you find a spot?,1
+1687,"i found a spot, but someone cut in and took it from me.",56
+1688,did you yell at them?,1
+1689,"yes, i did.",9
+1690,and?,1
+1691,and he yelled back at me.,35
+1692,how rude.,6
+1693,but i got lucky a few minutes later.,16
+1694,this is a huge library.,34
+1695,"yes, it has lots of rooms and lots of space.",47
+1696,and lots of books.,8
+1697,and lots of thieves.,8
+1698,what do you mean?,7
+1699,"i mean, keep your belongings close to you.",19
+1700,the only thing in my backpack is used books.,34
+1701,but thieves don't know that.,8
+1702,they might think that i've got an ipod or laptop in there.,35
+1703,now you're thinking.,6
+1704,you'd think a library would be safe from thieves.,44
+1705,how good is your math?,1
+1706,i can add two and two.,35
+1707,so you're not very good at math?,7
+1708,i'm terrible at math.,16
+1709,"well, i need some help.",9
+1710,with what?,1
+1711,i'm taking a math course in school.,35
+1712,"well, you should ask your teacher or your classmates for help.",47
+1713,i can't do that.,16
+1714,why not?,2
+1715,they might think i'm stupid.,10
+1716,do you believe in god?,2
+1717,of course.,6
+1718,do you pray to god?,1
+1719,occasionally.,34
+1720,when's that?,1
+1721,when i need something.,10
+1722,like what?,1
+1723,"well, if i have a big test at school.",11
+1724,does god answer your prayers?,7
+1725,"yes, i've passed all my tests.",48
+1726,do you ever pray for money?,1
+1727,the cops finally found the husband.,34
+1728,what husband?,7
+1729,the husband of the driver who ran over two college students at 3 a.m.,27
+1730,"oh, yeah. the girl died instantly, and the boy is still in the hospital.",42
+1731,the husband said he tried to help the boy.,34
+1732,"yes, he pushed him off the hood of the car.",4
+1733,"no, he said he gently placed the boy on the street.",42
+1734,so what? they still drove off.,14
+1735,the husband said a fire department was nearby.,52
+1736,so what? did he dial 911?,1
+1737,"he said he was thinking about it, but he didn't get around to it.",47
+1738,i don't like riding the bus.,10
+1739,why not?,2
+1740,the seats and windows are dirty.,34
+1741,don't they clean the bus every night?,1
+1742,i think they do.,10
+1743,you should bring some wipes with you.,6
+1744,that's a good idea.,44
+1745,then you can wipe your seat and window.,44
+1746,people will think i'm strange.,0
+1747,who cares? everyone is strange.,49
+1748,that's for sure.,8
+1749,i don't like riding the bus.,10
+1750,why not?,2
+1751,"number one, it's too slow.",12
+1752,you're right. a car is faster.,27
+1753,"number two, it's usually late.",42
+1754,you're right. the buses are never on time.,6
+1755,"number three, it doesn't run 24 hours.",12
+1756,you're right. buses don't run late at night.,8
+1757,"number four, it's too crowded.",12
+1758,you're right. you have to stand in the aisle.,27
+1759,"number five, it's unsafe.",4
+1760,we had a problem at school.,44
+1761,what was the problem?,1
+1762,someone cut the tires.,6
+1763,what tires?,1
+1764,the tires on the cars.,8
+1765,where were the cars?,1
+1766,they were in the student parking lot.,8
+1767,how many tires were cut?,1
+1768,one or two tires were cut on each car.,34
+1769,how many cars?,7
+1770,eleven cars.,8
+1771,life isn't fair.,8
+1772,it sure isn't.,6
+1773,i got a ticket yesterday.,16
+1774,what for?,1
+1775,i was crossing the street.,10
+1776,were you in a crosswalk?,7
+1777,"yes, but the red hand was blinking.",4
+1778,so? that's a ticket?,1
+1779,"yes, it's a $140 ticket.",4
+1780,that's not right!,32
+1781,"when i started to cross the street, the white walk sign was blinking.",48
+1782,you're driving too fast.,8
+1783,why do you say that?,7
+1784,the speed limit is 65.,6
+1785,i know that.,0
+1786,but you're doing 75.,6
+1787,so is everyone else.,6
+1788,but a cop might stop you.,8
+1789,"no, he won't. some cars are doing 85.",4
+1790,so the cop will stop those cars?,1
+1791,of course. he stops the fastest cars.,8
+1792,my friend got a ticket for doing 75.,8
+1793,remember to put air in your tires.,8
+1794,how often do i have to do that?,38
+1795,once every two months.,6
+1796,that's a lot.,34
+1797,what do you mean?,7
+1798,that's six times a year!,32
+1799,"yes, and it takes about five minutes each time.",47
+1800,i'll try.,10
+1801,check your tires or you'll get a flat.,34
+1802,oh. that's not good.,54
+1803,"no, it isn't. a flat costs you time and money.",26
+1804,you're driving too fast.,8
+1805,i'm in a hurry.,0
+1806,don't ever be in a hurry.,8
+1807,it's not my fault. you didn't wake me up.,30
+1808,that's not my fault. you didn't tell me to wake you up.,16
+1809,"well, i meant to.",19
+1810,don't ever be in a hurry when you're driving.,8
+1811,why not?,2
+1812,because you'll have an accident. most accidents are because people are in a hurry.,44
+1813,how do you know that?,1
+1814,i read a lot.,16
+1815,let's go for a ride.,8
+1816,where are we going?,2
+1817,into the mountains.,8
+1818,that sounds nice.,8
+1819,i want to show you my new car.,16
+1820,you bought a new car?,7
+1821,yes. i bought a cadillac.,16
+1822,a luxury car.,34
+1823,luxury plus speed.,6
+1824,what are we waiting for?,7
+1825,let me get the keys.,10
+1826,i have to go to the bathroom.,16
+1827,why didn't you go before we left?,1
+1828,"i did, but i have to go again.",56
+1829,"well, hold on a little longer.",4
+1830,i think i'm going to explode.,10
+1831,just hold on.,6
+1832,oh! don't hit any more bumps!,21
+1833,we'll be at mcdonald's in just a few minutes.,44
+1834,i hope they are fast minutes.,0
+1835,think about something else. think about a hamburger.,34
+1836,"i'm thinking, but i still have to go.",28
+1837,where's the car?,1
+1838,what do you mean?,7
+1839,the car isn't here.,8
+1840,where did you park it?,1
+1841,i parked it right here.,0
+1842,are you sure?,2
+1843,yes. i remember this big tree.,41
+1844,maybe it's the wrong tree.,8
+1845,"no, this is the tree.",12
+1846,did someone steal it?,1
+1847,i sure hope not.,10
+1848,look at this traffic.,34
+1849,i'd rather not.,0
+1850,it gets worse every year.,34
+1851,why are you complaining? we're going almost 20 miles an hour.,49
+1852,the speed limit is 65!,21
+1853,"well, that's between 2:00 and 4:00 a.m.",26
+1854,where are all these people going?,1
+1855,they're all asking the same question.,44
+1856,when are they going to fix this problem?,2
+1857,they said they need more money.,8
+1858,they always need more money.,34
+1859,did you see that car?,7
+1860,"yes, he went through the red light.",12
+1861,can we call the police?,7
+1862,"no, the police don't care.",4
+1863,why not?,2
+1864,they have to see it happen.,34
+1865,they don't believe us?,2
+1866,no. they can only give a ticket if they see it happen.,27
+1867,"so, what do we do?",36
+1868,we don't do anything.,8
+1869,maybe we should honk the horn next time.,8
+1870,my car is dirty.,8
+1871,why don't you wash it?,1
+1872,that's what i'm going to do.,16
+1873,are you going to wash it yourself?,1
+1874,of course. it's not a hard job.,8
+1875,i'll help you.,10
+1876,"okay, i'll get a bucket.",48
+1877,i'll rinse the car first.,0
+1878,then we can scrub it with a wet sponge and soap.,52
+1879,"after that, we can dry it with a towel.",47
+1880,it sure is windy today.,8
+1881,paper is flying everywhere.,8
+1882,this wind is dangerous for drivers.,8
+1883,especially for drivers of big trucks.,8
+1884,the wind blows those trucks over.,6
+1885,"it blows trees over, too.",12
+1886,a tree fell onto my dad's car.,52
+1887,was there much damage?,7
+1888,my dad had to buy a new car.,52
+1889,wow! that's terrible.,58
+1890,never park your car under a tree.,44
+1891,when are we going to stop?,2
+1892,we'll stop at the next mcdonald's.,34
+1893,how far away is that?,13
+1894,i think we'll be there in half an hour.,16
+1895,i hope so. i have to go to the bathroom.,0
+1896,"well, i can always pull over.",11
+1897,"no, thank you, i'll just wait.",19
+1898,we can kill two birds with one stone.,8
+1899,what do you mean?,7
+1900,"while you're using the bathroom, i'll order some food.",19
+1901,don't order for me. i'm not hungry.,10
+1902,this is such a long light.,8
+1903,look how many cars are waiting in line.,44
+1904,they need a left-turn arrow.,37
+1905,only two cars can make a left turn every three or four minutes.,52
+1906,we'll be here forever.,6
+1907,get out of this lane.,8
+1908,but we need to turn left.,8
+1909,forget it. go straight.,54
+1910,then what?,1
+1911,then we'll just make a u-turn.,37
+1912,and then we can turn right at the light.,44
+1913,i need a cheap car.,35
+1914,how much money do you have?,1
+1915,"$1,000.",4
+1916,"well, that should get you something.",4
+1917,but i need something that's reliable.,16
+1918,you need a car with low mileage.,44
+1919,a car that was owned by a little old lady.,52
+1920,where have you looked?,1
+1921,i haven't looked anywhere yet.,16
+1922,why not?,2
+1923,because i'll never find one for such a low price.,16
+1924,"good afternoon, officer.",4
+1925,"your driver's license and registration, please.",47
+1926,here you go.,6
+1927,do you know why i pulled you over?,33
+1928,i have no idea. all of a sudden i heard your siren.,35
+1929,you rolled through that stop sign back there.,34
+1930,but i stopped!,18
+1931,"no, you didn't. you slowed down, but you didn't come to a full stop.",4
+1932,"well, nobody else does, so why should i?",36
+1933,that's not the attitude of a good driver.,44
+1934,but i am a good driver. i've never had a ticket in my life.,16
+1935,$140. i can't believe it.,30
+1936,what are you talking about?,51
+1937,i got a ticket downtown for $140.,58
+1938,were you speeding?,2
+1939,"no, i was crossing the street.",9
+1940,were you jaywalking?,7
+1941,"no, i was in the crosswalk.",19
+1942,so why did you get a ticket?,1
+1943,the officer said the red hand was blinking.,34
+1944,was it blinking when you entered the crosswalk?,1
+1945,"no, the white walk sign was blinking.",4
+1946,they were in a crosswalk near school at 3 a.m.,3
+1947,who?,2
+1948,two students from usc.,6
+1949,what happened?,7
+1950,"a speeding car ran a red light, killing the girl.",47
+1951,what happened to the other student?,7
+1952,he landed on the hood of the car.,34
+1953,did he get off the hood?,2
+1954,"no, the car stopped and the passenger pushed the injured student off the hood.",47
+1955,i'll bet the car continued on its way.,16
+1956,of course it did. why stop after you've run over two people?,14
+1957,what happened to your car?,51
+1958,i got a dent in the parking lot.,16
+1959,how did you get it?,2
+1960,i don't know. maybe it was from a shopping cart.,16
+1961,those shopping carts are dangerous.,34
+1962,especially the metal ones.,34
+1963,i don't park at a store that uses metal shopping carts.,31
+1964,"that's a good idea, but there was a good sale at this store.",52
+1965,did you save any money on the sale?,51
+1966,"yes, i did. i saved about $50.",56
+1967,that's great.,34
+1968,"did you see """"titanic""""?",5
+1969,yes. it is a great movie.,8
+1970,i saw it twelve times.,10
+1971,i saw it eight times.,10
+1972,i have the dvd.,0
+1973,so do i.,6
+1974,let's go to your home.,6
+1975,we can watch my dvd.,34
+1976,and then we can go to my home.,34
+1977,and watch your dvd.,34
+1978,i always cry at the end.,35
+1979,let's play cards.,34
+1980,i don't know any card games.,35
+1981,i'll teach you one.,0
+1982,okay. what will you teach me?,23
+1983,it's called poker.,8
+1984,is it easy to learn?,7
+1985,"yes, it will only take about 30 minutes.",42
+1986,okay. teach me how to play.,16
+1987,we each get five cards.,34
+1988,"oh, look. i have four tens.",19
+1989,"that's great, but you're not supposed to tell me.",48
+1990,i'm a good card player.,35
+1991,why is that?,1
+1992,because i watch the other players.,35
+1993,what do you mean?,7
+1994,people will tell you if they have a good hand.,44
+1995,how do they do that?,1
+1996,"for example, a friend of mine licks his lips.",42
+1997,"when he licks his lips, you know he has a good hand?",25
+1998,"i know he has a good hand, so i don't bet.",56
+1999,he never wins your money?,2
+2000,"nope, and it drives him crazy.",42
+2001,"turn the radio down, please.",42
+2002,but i'm listening to it.,10
+2003,"well, listen to it more quietly.",12
+2004,i can't wait till i grow up.,0
+2005,what will you do?,1
+2006,i will play the radio as loud as i want.,35
+2007,that's okay with me.,16
+2008,i will have a radio in every room of my house.,35
+2009,remind me to never visit you.,10
+2010,all the radios will be on extra loud.,44
+2011,your neighbors will hate you.,8
+2012,i hope i win the lotto.,10
+2013,your chances are very small.,34
+2014,but you can't win if you don't play.,34
+2015,ha! you can't win if you do play.,37
+2016,someone has to win.,8
+2017,that's what everyone says.,44
+2018,it might as well be me.,0
+2019,that's what everyone says.,44
+2020,you're trying to tell me something.,10
+2021,that didn't take long.,34
+2022,you think i should quit playing.,0
+2023,what's on tv?,1
+2024,nothing much.,6
+2025,what about the baseball game?,13
+2026,it got rained out.,8
+2027,rained out?,1
+2028,"yes, rained out.",4
+2029,how could that be?,1
+2030,"well, you can't play baseball in a rainstorm.",52
+2031,i thought they were playing under a dome.,16
+2032,the dome doesn't close.,6
+2033,why doesn't it close?,2
+2034,can i try your coffee?,24
+2035,sure. here you go.,6
+2036,"hmm, that's not bad.",42
+2037,there's nothing in it.,6
+2038,what do you mean?,7
+2039,"i mean, it's just coffee.",19
+2040,i figured that.,0
+2041,it's not too bitter for you?,2
+2042,"it's a little bitter, but it's okay.",42
+2043,there's no sugar or cream in it.,34
+2044,"no, it's a taste you have to get used to.",47
+2045,let's take a walk.,44
+2046,what's the weather like?,7
+2047,let me step outside and see.,0
+2048,"it's a little chilly, right?",36
+2049,"yes, it is.",12
+2050,i'll put on my cap.,0
+2051,"wear a jacket, too.",47
+2052,i wonder if i should bring my gloves.,10
+2053,"maybe you should, just in case it gets colder.",42
+2054,i'll put a glove in each pocket.,16
+2055,we'll get warmer as we walk.,44
+2056,look at the car chase on tv!,32
+2057,that driver is crazy.,34
+2058,i can't believe he hasn't crashed.,35
+2059,how fast is he going?,1
+2060,they say he's going 80 miles per hour.,8
+2061,he's going to kill someone.,6
+2062,look! he just hit that car.,37
+2063,"oh, my goodness. no one is safe on the streets.",4
+2064,now he's slowing down.,6
+2065,maybe he ran out of gas.,34
+2066,look! he just got out of the car and started running.,37
+2067,tv news is so stupid.,6
+2068,they shouldn't even call it news.,8
+2069,last night they told us about a cat in a sofa.,52
+2070,yesterday they told us about a dog in a pipe.,52
+2071,last week they told us about a bear in a back yard.,52
+2072,last month they told us about a mouse in a restaurant.,52
+2073,the weatherman tells us the temperature in every town.,44
+2074,the sports guy shows us players fighting.,8
+2075,"they always tell us """"what's next.",5
+2076,"they always make """"what's next"""" sound exciting, but it never is.",5
+2077,it's more like news for kids.,6
+2078,i love my computer.,10
+2079,computers are so cool.,6
+2080,i love to go online.,10
+2081,the internet is amazing.,34
+2082,you can travel all over the world.,44
+2083,i know. i went to china yesterday.,0
+2084,what did you do?,1
+2085,i stood on the great wall and looked all around.,31
+2086,what was it like?,1
+2087,it was like the real thing.,8
+2088,it was like being there?,2
+2089,the beatles are the best.,8
+2090,they are the best musical group ever.,8
+2091,i love all their songs.,0
+2092,i don't know which one i like the best.,10
+2093,i like the ones i can sing along with.,0
+2094,"so do i, like """"she loves you.",5
+2095,"she loves you, yeah, yeah, yeah!...",4
+2096,Â…and you know you should be glad!,32
+2097,what a great song.,44
+2098,"how about """"let it be?",5
+2099,"oh, yes! """"let it be, let it beÂ…",5
+2100,let's go to a movie.,8
+2101,i'd rather not.,0
+2102,why not?,2
+2103,you know i don't like crowds.,10
+2104,let's go to an early movie.,34
+2105,"okay, that won't be very crowded.",42
+2106,what would you like to see?,1
+2107,"oh, i don't care. you're the one who wants to go out.",48
+2108,"well, i want to see """"the pursuit of happyness.",5
+2109,what have you heard about it?,13
+2110,it's based on a true story about a divorced man and his young son.,52
+2111,what's your favorite thing to do?,7
+2112,i like to watch people.,0
+2113,that's your favorite thing to do?,7
+2114,"well, it's one of them.",12
+2115,where do you go to watch people?,1
+2116,my girlfriend and i sit outside starbucks.,16
+2117,that sounds like a good spot.,34
+2118,we watch people walk by with their dogs.,34
+2119,i guess you see lots of different dogs.,10
+2120,we don't even know what kind most of them are.,8
+2121,"there are lots of different kinds, but they all have one thing in common.",42
+2122,they call him father dollar bill.,44
+2123,"yes, he was on the tv news today.",4
+2124,every easter sunday he gives away money.,52
+2125,is it his money?,2
+2126,no. movie stars give him money to give to homeless people.,54
+2127,how much money does he give away?,7
+2128,"this year he gave away $15,000.",47
+2129,that's a lot of money.,34
+2130,he gave $100 to people in wheelchairs.,37
+2131,what about the other homeless people?,7
+2132,they got $1 each.,37
+2133,old movies are the best.,6
+2134,even though they're in black and white.,34
+2135,a good story is more important than color.,44
+2136,actors didn't curse back then.,34
+2137,and there was no violence.,8
+2138,people today don't like that.,34
+2139,"no, today people like lots of action.",42
+2140,i like a good story.,0
+2141,i like to see actors who are like real people.,16
+2142,like real people with real problems.,34
+2143,they still make movies like that.,34
+2144,do you get pbs on tv?,2
+2145,"yes, everybody gets the public broadcasting system.",42
+2146,it puts me to sleep.,10
+2147,tell me about it.,0
+2148,a gardening show follows a knitting show.,44
+2149,a cooking show follows a sewing show.,34
+2150,a travel show follows another travel show.,52
+2151,i'll say! i've gone around the world a dozen times already!,35
+2152,now they're adding old tv shows to the old movies.,8
+2153,i sure would like to see something interesting for a change.,16
+2154,"if more people donate money, pbs could offer new shows.",4
+2155,"i love to watch """"judge judy.",5
+2156,is that a tv show?,7
+2157,yes. it's on every afternoon.,54
+2158,what's so good about it?,7
+2159,they have interesting lawsuits.,34
+2160,such as?,1
+2161,"yesterday, a woman complained about a cell phone she bought on ebay.",52
+2162,was something wrong with the phone?,2
+2163,it works only in canada.,44
+2164,did the seller know that?,1
+2165,"yes, and he didn't tell the buyer.",4
+2166,that woman is a very good singer.,44
+2167,"yes, but she looks like a man.",42
+2168,what difference does it make?,7
+2169,female singers are supposed to be pretty.,8
+2170,singers are supposed to sound good.,6
+2171,"they should look good, too.",12
+2172,there are lots of ugly men singers.,8
+2173,men singers don't have to look good.,34
+2174,then neither do women singers.,8
+2175,"well, i would never buy her cd.",9
+2176,but you would buy her cd if she was pretty?,2
+2177,all the tv stations are going to go digital.,44
+2178,"yes, that will occur next month.",4
+2179,most of them are already broadcasting in digital.,52
+2180,the digital signal is very clear.,44
+2181,"oh, no, it isn't!",12
+2182,what do you mean?,7
+2183,i can't get a single channel.,35
+2184,do you have a digital tv?,51
+2185,of course. but i don't have cable.,30
+2186,"you don't need to have cable, but you do need a good antenna.",47
+2187,but i have rabbit ears.,35
+2188,i've got a date for you.,16
+2189,"oh, really?",36
+2190,are you interested?,2
+2191,maybe. what is she like?,49
+2192,she's got a great personality.,44
+2193,uh-oh. that means that she's fat and ugly.,37
+2194,she's cute.,6
+2195,"okay, so she's not ugly; she's just fat.",42
+2196,she weighs 98 pounds.,6
+2197,"okay, she's not fat. so what's the problem with her?",57
+2198,who said there is a problem with her?,7
+2199,i think you're very pretty.,10
+2200,thank you.,8
+2201,would you have dinner with me?,24
+2202,i would like to.,10
+2203,can i pick you up friday night?,38
+2204,what time?,1
+2205,eight o'clock.,6
+2206,that sounds great.,34
+2207,we'll go to a french restaurant.,44
+2208,i've never been to a french restaurant.,35
+2209,i think you'll love the food.,10
+2210,you have pretty eyes.,8
+2211,thank you. so do you.,54
+2212,i wish my eyes were blue.,10
+2213,what's the matter with green eyes?,7
+2214,"nothing, except my favorite color is blue.",4
+2215,maybe in your next life you'll have blue eyes.,34
+2216,but what if i'm a fish in my next life?,38
+2217,i think some fish have blue eyes.,0
+2218,i hope i don't come back as a fish.,16
+2219,i hope i come back as a cat.,16
+2220,cats have beautiful eyes.,44
+2221,i love you.,10
+2222,"i love you, too.",9
+2223,i loved you the first day i saw you.,50
+2224,it was love at first sight?,1
+2225,"yes, it was love at first sight.",4
+2226,i didn't love you at first.,0
+2227,i know. i had to chase you for a while.,16
+2228,"yes, you chased me and then you caught me.",56
+2229,now you're mine forever.,6
+2230,and you're mine forever.,8
+2231,we'll grow old together.,6
+2232,i'm in love with that girl.,0
+2233,have you told her?,1
+2234,of course not.,6
+2235,why not?,2
+2236,she would laugh at me.,16
+2237,how do you know?,2
+2238,because they always do.,44
+2239,maybe she's different.,8
+2240,they're all the same.,34
+2241,just ask her out to dinner.,8
+2242,and then what?,7
+2243,give me a hug.,0
+2244,i'm not in the mood.,10
+2245,what's the matter?,7
+2246,i saw you looking at that woman.,35
+2247,what woman?,7
+2248,"you know, that woman with the big boobs.",42
+2249,i was not looking at her.,0
+2250,"you were, too.",12
+2251,i'm not interested in her.,10
+2252,then why were you looking at her?,1
+2253,i was looking at something else.,0
+2254,would you like to go on a blind date?,7
+2255,you must be joking.,6
+2256,"no, i'm serious.",9
+2257,i don't want to date a blind woman.,31
+2258,a blind date doesn't mean that she is blind!,32
+2259,what does it mean?,7
+2260,a blind date is a date with someone you don't know.,52
+2261,why would i date someone i don't even know?,24
+2262,to try something new and exciting.,8
+2263,what if i don't like her?,24
+2264,i have a date tomorrow night.,35
+2265,really? who with?,33
+2266,a girl i met at the market.,35
+2267,you met a girl at the supermarket?,51
+2268,she was standing behind me in a really slow line at the checkout counter.,31
+2269,what did you say to her?,7
+2270,"i had two pineapples in my cart, and she asked where i had found them.",11
+2271,she asked you about your pineapples?,51
+2272,"i told her i had gotten the last two on the shelf, but i offered her one of mine.",28
+2273,that was nice of you.,8
+2274,"she asked me how she could return the favor, so i asked her out.",56
+2275,did you have a date friday night?,13
+2276,"yes, in fact, i did.",19
+2277,who did you go out with?,2
+2278,a man i met in a coffee shop.,35
+2279,where did you go?,2
+2280,we went to a nice restaurant.,44
+2281,anywhere else?,1
+2282,then we went to a jazz club.,34
+2283,that sounds like a nice date.,44
+2284,"yes, it was pleasant.",42
+2285,but you won't date him again?,51
+2286,i had the worst date the other night.,35
+2287,what happened?,7
+2288,"first of all, he was half an hour late.",47
+2289,that's not a good start.,44
+2290,then he didn't bother to apologize.,8
+2291,that's rude.,8
+2292,then he drove too fast to the restaurant.,44
+2293,that's dangerous.,34
+2294,i thought about getting out and taking a taxi home.,31
+2295,what happened at the restaurant?,13
+2296,"we had a $40 meal, and he left a $1 tip!",32
+2297,i don't like that man.,16
+2298,why not?,2
+2299,he's a dirty old man.,34
+2300,what do you mean?,7
+2301,"he's old enough to be my father, yet he asked me out.",48
+2302,"well, you can't blame a man for asking.",47
+2303,he should act his age.,34
+2304,but a lot of old people are still interested in dating.,34
+2305,they should find a nice hobby.,8
+2306,just wait until you're 50 years old.,34
+2307,dating will be the furthest thing from my mind.,8
+2308,does your girlfriend ever make you angry?,7
+2309,sometimes.,6
+2310,what does she do?,1
+2311,"just yesterday, i told her i wouldn't trade her for all the money in the world.",56
+2312,that was a nice thing to say.,44
+2313,that's what i thought.,16
+2314,what did she say?,7
+2315,she laughed! she didn't believe me.,58
+2316,that wasn't very nice of her.,8
+2317,she said that nothing is more important to me than money.,31
+2318,what did you say?,7
+2319,some people have good noses.,8
+2320,i wish i had a good nose. mine is way too big.,16
+2321,i don't mean good-looking. i mean good-smelling.,58
+2322,oh. but that can be a curse.,27
+2323,"yes, because you can be too sensitive to odors.",42
+2324,i'll say. my girlfriend has a nose like a drug dog.,31
+2325,did she catch you using drugs?,1
+2326,sort of. she knows whenever i sneak a cigarette.,16
+2327,you don't need a good nose for thatÂ—cigarettes stink.,44
+2328,"but when i sneak just one cigarette in the morning, she can smell it that evening!",59
+2329,"boy, that is a good nose.",42
+2330,let's go out to eat.,8
+2331,that sounds like fun.,8
+2332,where do you want to go?,1
+2333,let me think a minute.,0
+2334,i feel like chinese.,10
+2335,that sounds delicious.,8
+2336,i know a good chinese restaurant.,35
+2337,how far away is it?,51
+2338,it's only 10 minutes from here.,6
+2339,do we need reservations?,1
+2340,"oh, no. we can walk right in.",26
+2341,i can't believe how long this line is.,0
+2342,"this is a popular restaurant, isn't it?",25
+2343,"yes, but it isn't a fast-food restaurant, is it?",57
+2344,it's the slowest hamburger in town.,8
+2345,that's because they cook it while you wait.,44
+2346,yes. that's why it's also the best hamburger in town.,27
+2347,a great burger and great service.,52
+2348,"yes, the workers are very polite.",12
+2349,and they're clean.,34
+2350,i've been coming here for years.,0
+2351,me too.,10
+2352,lunch was delicious.,6
+2353,thank you.,8
+2354,what kind of soup was that?,7
+2355,it was tomato soup.,8
+2356,that tasted so good.,34
+2357,i put lemon and butter in it.,0
+2358,"the sandwich was good, too.",4
+2359,everyone likes bacon and tomato sandwiches.,52
+2360,especially on toast.,34
+2361,"and the pickles were great, too.",42
+2362,tomorrow we'll have rice and fish for lunch.,34
+2363,i'm calling the waiter.,16
+2364,what's the matter?,7
+2365,this steak has too much fat.,44
+2366,what do you want the waiter to do?,51
+2367,bring me a better steak.,16
+2368,i wouldn't do that.,0
+2369,why not?,2
+2370,"they will drop the new steak on the floor, step on it, and then spit on it.",45
+2371,you're crazy.,8
+2372,then the waiter will give you a big smile as he brings you the new steak.,52
+2373,where do you get these crazy ideas?,7
+2374,let's leave.,8
+2375,but we just got here.,6
+2376,did you see the waiter's hands?,7
+2377,no.,6
+2378,he had dirty fingernails.,34
+2379,really?,1
+2380,his nails were black!,32
+2381,that's disgusting.,8
+2382,and he poured water into our glasses.,44
+2383,yuck! no water for me.,58
+2384,"i wonder if the cooks' nails are dirty, too.",19
+2385,this hot bread is delicious.,8
+2386,i like this restaurant because they give you free bread.,31
+2387,"well, i think we are paying for it.",19
+2388,no. look at the bill when we get it. there's no charge for the bread.,8
+2389,"it is delicious, especially with butter.",4
+2390,i think we should just leave after we fill up on the bread.,35
+2391,they probably wouldn't like that.,34
+2392,i'm eating so much bread that i'm getting full.,16
+2393,then stop eating the bread!,32
+2394,"okay, just one more piece. pass the butter, please.",42
+2395,"if i owned a restaurant, i would never serve hot bread before the main course.",11
+2396,is this a clean restaurant?,13
+2397,"well, the tables and chairs look okay.",47
+2398,"okay, let's sit down.",4
+2399,check out the silverware.,8
+2400,it passes inspection.,8
+2401,here comes the waiter. see if his hands and nails are clean.,3
+2402,"well, the waiter looked clean, so i guess it's okay to eat here.",11
+2403,you're forgetting about the bathroom.,34
+2404,i'm going to just hope that the bathroom is clean.,35
+2405,you're not going to examine it before we order dinner?,1
+2406,"no, i'd rather not find out that it's dirty, because i'm pretty hungry right now.",48
+2407,have you seen our waiter?,7
+2408,here he comes now.,6
+2409,we've been sitting here for almost 10 minutes.,8
+2410,"oops, i guess i was wrong. that isn't our waiter.",48
+2411,"we can give him five more minutes, and then leave.",47
+2412,i'll go up front and talk to the manager.,31
+2413,that's a good idea.,44
+2414,maybe they'll give us free drinks for waiting so long.,34
+2415,maybe he'll send us our waiter immediately.,44
+2416,"every time we eat out, it's an adventure.",47
+2417,"last time, we got seats next to the kitchen.",42
+2418,is this table okay?,7
+2419,"no, it's too close to the kitchen door.",12
+2420,how about this table?,7
+2421,"no, it's too close to the front door.",12
+2422,this looks like a nice table.,34
+2423,"no, it's too close to the salad bar.",47
+2424,"okay, i give up.",19
+2425,"well, there is one good table.",4
+2426,great. which one?,14
+2427,i don't believe the art world.,0
+2428,what is it this time?,1
+2429,an andy warhol drawing.,52
+2430,he's a famous artist.,44
+2431,he drew two butterflies and a flower on a napkin in a restaurant.,52
+2432,did he sign it?,2
+2433,yes.,6
+2434,is it beautiful?,1
+2435,it's just black ink on a white napkin. and the napkin has food stains!,52
+2436,so it's not worth much?,2
+2437,"only about $30,000.",4
+2438,can we go to the baseball game?,13
+2439,of course.,6
+2440,i love baseball.,16
+2441,so do i.,6
+2442,i love to eat the peanuts.,16
+2443,i love to eat the hot dogs.,0
+2444,i hope we'll see a home run.,0
+2445,i hope we'll catch a foul ball.,35
+2446,bring a jacket.,34
+2447,yes. it gets a little cool at night.,8
+2448,bring a glove to catch a foul ball.,52
+2449,golf is a silly game.,34
+2450,it certainly is.,8
+2451,you hit a white ball.,34
+2452,and then you chase it.,34
+2453,and then you hit it again.,44
+2454,"finally, you put the ball into a hole in the ground.",47
+2455,"you do this 18 times, because there are 18 holes.",4
+2456,what's the point?,1
+2457,how can it be fun?,1
+2458,they pay money to play this silly game!,32
+2459,i think golfers have a mental problem.,35
+2460,do you want to go fishing?,1
+2461,yes. that's a good idea.,27
+2462,where do you want to go?,1
+2463,we can go to the river.,8
+2464,or we can go to the lake.,34
+2465,or we can go to the ocean.,34
+2466,let's go to the lake.,8
+2467,yes. the lake is only 10 miles away.,27
+2468,we can be there in 20 minutes.,8
+2469,i'll get our fishing rods.,10
+2470,i'll get the bait.,0
+2471,baseball is fun.,34
+2472,i like to hit the ball.,0
+2473,i like to run around the bases.,16
+2474,i like to slide into the bases.,0
+2475,yeah. it's a lot of fun to slide.,8
+2476,i want to be a baseball player when i grow up.,35
+2477,me too. i want to play for the yankees.,16
+2478,not me. i want to play for the dodgers.,0
+2479,we have to practice every day.,44
+2480,i don't like practice.,0
+2481,me neither. it's boring.,41
+2482,let's go jogging.,6
+2483,that's a good idea.,44
+2484,i bought some new shoes.,10
+2485,are they comfortable?,1
+2486,they're very comfortable.,8
+2487,how much were they?,2
+2488,they were on sale for $80.,37
+2489,do they help you run faster?,1
+2490,"no, but my feet don't hurt anymore.",4
+2491,then they're worth every penny.,6
+2492,you might want to buy a pair.,44
+2493,tiger is the greatest golfer in the world.,8
+2494,you can say that again.,52
+2495,but i'm worried about tiger.,0
+2496,why is that?,1
+2497,because he likes to scuba dive.,34
+2498,what's wrong with that?,7
+2499,it can be dangerous.,34
+2500,you mean he could drown.,8
+2501,he shouldn't scuba dive until he retires.,8
+2502,but he dives to relax.,8
+2503,"he might relax, but it makes me nervous.",48
+2504,did you watch that golf tournament?,51
+2505,the one that tiger won?,1
+2506,how did he do it?,2
+2507,it was nothing for him.,6
+2508,he sank a 20-foot putt on the last hole to win by one stroke!,32
+2509,he sank a 25-footer last year at the same tournament to win by one stroke.,52
+2510,i think he is from outer space.,0
+2511,no human could possibly play golf that well.,44
+2512,"whenever he needs a shot to win a tournament, he makes that shot.",47
+2513,no human can do that.,44
+2514,somebody should check his birth record.,6
+2515,who's the greatest baseball player?,13
+2516,there are so many great players.,44
+2517,"yes, but who is the greatest?",36
+2518,i'd have to say babe ruth.,35
+2519,most people would say that.,34
+2520,he changed the game.,34
+2521,"yes, he made the home run popular.",42
+2522,"everybody loved him, all over the nation.",42
+2523,he helped make the yankees the best team ever.,44
+2524,"and ruth was a good person, too.",42
+2525,he always visited hospitals to cheer up sick kids.,44
+2526,did you hear what happened at the baseball game?,39
+2527,"no, please tell me.",19
+2528,someone punched out someone.,6
+2529,that's not nice.,8
+2530,it's worse than that.,44
+2531,how so?,2
+2532,two guys got into an argument.,34
+2533,i'll bet they were drinking.,10
+2534,a third guy punched one of the two guys.,8
+2535,"i'll bet he was drinking, too.",9
+2536,the victim hit his head on the concrete steps and died.,34
+2537,i want to go to the ball game.,35
+2538,is there a game tonight?,7
+2539,"yes, it starts at 7 p.m.",26
+2540,can we get tickets?,1
+2541,"yes, but only the cheap tickets.",4
+2542,how much are they?,2
+2543,they're only $5 each.,37
+2544,that's a good price.,34
+2545,"yes, it's cheaper than a hot dog or a beer.",47
+2546,where are the seats?,1
+2547,they're behind the outfield.,6
+2548,golf is so hard.,8
+2549,what's so hard about hitting a little white ball?,13
+2550,it's hard if you want to do it right.,34
+2551,you mean like tiger?,1
+2552,"no, like a good amateur golfer.",47
+2553,what's so hard about golf?,51
+2554,there are so many things you have to do right.,34
+2555,like what?,1
+2556,"like keep your left arm straight, keep your head down, and follow through.",42
+2557,yikes! who can remember all that?,51
+2558,you need to get a lot of lessons when you're really young.,34
+2559,did you hear about the ball player?,13
+2560,the home run hitter on drugs?,2
+2561,he said a doctor helped him with a personal problem.,52
+2562,he said he wasn't using drugs.,8
+2563,he apologized to the fans.,34
+2564,the league suspended him for 50 games.,34
+2565,that will cost him some money.,8
+2566,"yes, about $7 million.",4
+2567,that will teach him a good lesson.,44
+2568,he probably won't use drugs anymore.,34
+2569,but it won't stop other players from using drugs.,8
+2570,why is there so much crime?,2
+2571,because parents don't teach their kids right from wrong.,44
+2572,is that it?,1
+2573,"also, there aren't enough police.",4
+2574,but there are a lot of police.,8
+2575,there's only one police officer per 100 criminals.,8
+2576,can't we hire more police?,1
+2577,no. it costs too much money.,6
+2578,doesn't crime cost more than police?,1
+2579,"yes, it does.",12
+2580,so it would be cheaper to hire more police?,1
+2581,this is a great neighborhood.,34
+2582,"yes, it is.",12
+2583,people are friendly.,6
+2584,"yes, they are.",12
+2585,the streets and sidewalks are clean.,44
+2586,"yes, they are.",12
+2587,there's a real nice park nearby.,52
+2588,"yes, there is.",12
+2589,i feel safe here.,0
+2590,there is no crime here.,6
+2591,i wish i could move here.,10
+2592,the house burned down.,6
+2593,what happened?,7
+2594,the man fell asleep.,44
+2595,was he smoking?,2
+2596,"yes, he was smoking a cigarette.",42
+2597,did he die?,2
+2598,"yes, he did. his cat died, too.",4
+2599,that's too bad. what about his smoke alarm?,39
+2600,the battery was dead.,34
+2601,a good battery would have saved his life.,52
+2602,"he had cigarettes, but no battery.",47
+2603,they say he has started fifteen big fires.,44
+2604,he's been in jail three times already.,44
+2605,why did they ever let him out?,2
+2606,it's the law. they can't keep him in jail forever.,27
+2607,why not? everyone knows he's a firebug. he loves to start fires.,49
+2608,i don't know. sometimes the law doesn't make sense.,30
+2609,but his latest fire killed someone.,8
+2610,this time they have charged him with murder.,34
+2611,so maybe he'll go to jail forever?,7
+2612,i sure hope so.,10
+2613,someone should set him on fire.,6
+2614,put your seatbelt on.,8
+2615,why?,2
+2616,because it will protect you in case of an accident.,52
+2617,but it's uncomfortable.,8
+2618,it's the law.,8
+2619,it's so much trouble.,6
+2620,it's common sense.,6
+2621,it's so tight that it's hard for me to breathe.,35
+2622,hold your breath till we get there.,8
+2623,"okay, my seatbelt is on.",42
+2624,i'm glad you don't complain very much.,16
+2625,what are you doing?,1
+2626,i'm going to change the light bulb. it burnt out.,30
+2627,what are you standing on?,7
+2628,a couple of dictionaries and some textbooks.,44
+2629,are you crazy?,1
+2630,what's the matter?,7
+2631,those books will slip and you'll fall.,34
+2632,it's only a couple of feet.,8
+2633,"what if you fall while you're holding the light bulb, and it breaks and pieces go into your eyes?",25
+2634,i never thought about that.,16
+2635,you'd be blind for the rest of your life!,21
+2636,did you see that puddle of water on the floor?,7
+2637,yes. i called for a clean-up.,16
+2638,a puddle of water is very dangerous.,44
+2639,it isn't easy to see.,8
+2640,but it's real easy to slip on.,34
+2641,especially on these slick floors.,8
+2642,someone who slips could hurt their back.,8
+2643,they could even crack their head open.,34
+2644,we should stand here till the clean-up person gets here.,37
+2645,we can leave if we put an orange cone here.,52
+2646,"yes, but i don't know where the orange cones are.",19
+2647,what happens when the fire alarm rings?,13
+2648,we tell our students to leave the classroom.,34
+2649,can they take their belongings?,7
+2650,"yes, if they do it quickly.",12
+2651,where do the students go?,2
+2652,they go out to the north parking lot.,8
+2653,what do the teachers do?,7
+2654,we take our rosters to the parking lot and take roll.,52
+2655,why do you do that?,1
+2656,we want to make sure all the students are out of the building.,44
+2657,"if they are all outside, then what?",57
+2658,i have to go back upstairs.,35
+2659,why? we're already late.,49
+2660,i have to check the stove.,0
+2661,what's the matter?,7
+2662,maybe i left the burner on.,16
+2663,"no, you didn't. i checked the stove before we left.",19
+2664,are you sure?,2
+2665,of course i'm sure.,10
+2666,"well, i have to go back upstairs anyway.",59
+2667,it's getting later every minute.,8
+2668,i think i left the water running.,0
+2669,the city is buying guns.,6
+2670,what are they paying?,7
+2671,"up to $200 for each gun, no questions asked.",42
+2672,why are they doing this?,2
+2673,they want to get guns off the street.,8
+2674,who would turn in a gun for $200?,43
+2675,that isn't a good deal?,51
+2676,a good gun costs $400 or more.,37
+2677,"well, if you bring your receipt, maybe they'll give you $400.",4
+2678,i'll keep my receipt and my gun.,0
+2679,i didn't know you had a gun.,16
+2680,you're yawning.,8
+2681,i sure am.,10
+2682,you should go to bed.,6
+2683,i will as soon as i finish this article.,16
+2684,what are you reading?,7
+2685,it's about crime in los angeles.,34
+2686,what does it say?,7
+2687,the mayor says the crime rate is going down.,44
+2688,then why does everyone lock their doors?,2
+2689,i guess they haven't read this article.,35
+2690,no one believes that the crime rate is going down.,34
+2691,people who live in california are crazy.,44
+2692,why is that?,1
+2693,because of all the earthquakes and fires.,52
+2694,but big earthquakes happen only once in a while.,52
+2695,once in a while is once too many.,34
+2696,but you're right. there are a lot of fires.,54
+2697,a recent fire destroyed 85 homes.,8
+2698,"still, it's safer than florida.",47
+2699,florida doesn't have earthquakes or fires.,52
+2700,"no, florida just has hurricanes every year from june to october.",47
+2701,but most of those hurricanes are harmless.,34
+2702,i went to hawaii on vacation.,31
+2703,did you like it?,2
+2704,i loved it. i want to live there.,0
+2705,what did you like?,1
+2706,"the island is so green, and the water is so blue.",47
+2707,did you go swimming?,2
+2708,i went to the beach every day.,16
+2709,how was the weather?,1
+2710,it was hot and sunny every day.,34
+2711,what did you do at night?,7
+2712,at night i went out to eat. the food was delicious.,30
+2713,i like this hotel.,10
+2714,what do you like about it?,7
+2715,we get a free breakfast.,44
+2716,coffee and a roll?,7
+2717,"no, a real breakfast.",47
+2718,bacon and eggs?,7
+2719,"with toast, ham, sausage, fresh fruit, and juice.",45
+2720,wow! that is nice. let's stay for two nights.,8
+2721,"and the rooms are clean, too.",42
+2722,do they allow pets?,1
+2723,"no pets, no smoking.",12
+2724,i'm not sleeping here tonight.,10
+2725,what's the matter? this is a nice room.,49
+2726,"maybe the room is nice, but not the bed.",4
+2727,what's wrong with the bed?,1
+2728,look at this sheet.,8
+2729,yes?,2
+2730,see those stains?,1
+2731,i sure do.,10
+2732,i'm not sleeping on that sheet.,0
+2733,"well, just call the front desk. they'll give us new sheets.",4
+2734,i want sheets without stains on them.,16
+2735,what time does your plane leave?,51
+2736,it leaves at 12:15.,34
+2737,when do you have to be at the airport?,51
+2738,i have to be there two hours early.,16
+2739,so we have to be at the airport at 10:15.,52
+2740,that means we have to leave the house at 9:15.,52
+2741,"well, it's an hour to get there, if there are no traffic problems.",45
+2742,so maybe we better leave at 8:15?,51
+2743,"yes, it's better to get there too early than too late.",47
+2744,i agree.,0
+2745,you never know what might happen on these freeways.,44
+2746,i need to fly to new york.,10
+2747,when are you going?,2
+2748,during the christmas holidays.,34
+2749,you'd better buy your ticket now.,6
+2750,you must be kidding.,6
+2751,"no, i'm not. it's march. time is running out. seats are selling out right now.",30
+2752,i thought i would wait until october.,50
+2753,i'll bet this is the first time you've ever flown during christmas.,0
+2754,you're right.,6
+2755,"well, listen to me. you need to buy a ticket now.",19
+2756,but maybe prices will be cheaper in october.,34
+2757,i hate flying.,0
+2758,so do i.,6
+2759,"a long time ago, flying used to be okay.",47
+2760,now it's like riding a bus.,8
+2761,you're jammed in with people all around you.,44
+2762,"half of them are coughing, and the other half are sneezing.",47
+2763,you don't have any elbow room or knee room.,34
+2764,people are always getting up to use the bathroom.,44
+2765,kids are crying or climbing over you.,6
+2766,it's a flying zoo!,32
+2767,i wish i could afford first class seats.,16
+2768,some guy rowed across the atlantic ocean.,52
+2769,good for him.,6
+2770,why would he do that?,1
+2771,did he set a new record?,1
+2772,"yes, i think he did.",9
+2773,"well, i guess that's why he did it.",19
+2774,what's the point?,1
+2775,now he has the world record!,32
+2776,"but someone's going to break it, so what good is it?",57
+2777,"well, he can enjoy it while it lasts.",42
+2778,i don't think he even got paid for it.,0
+2779,i want to go on a cruise ship.,16
+2780,that sounds like fun. where do you want to go?,49
+2781,i want to cruise to hawaii.,35
+2782,"that should be a nice trip. lots of fun, and lots of food.",26
+2783,i have no idea how much it will cost.,16
+2784,i think it depends on the season and on your cabin.,35
+2785,"well, of course i want to go when the weather is nice.",48
+2786,"yes, you don't want to travel in winter storms.",42
+2787,and i want to get a big cabin with a view.,31
+2788,are you going to travel alone?,7
+2789,"no, my sister and i will travel together.",48
+2790,i hate to fly.,0
+2791,because of all the security?,7
+2792,"no, because it hurts my ears.",42
+2793,what do you mean?,7
+2794,"every time we land or take off, my ears hurt so much.",47
+2795,"that's just the altitude change, i think.",11
+2796,"whatever it is, it hurts.",4
+2797,can't you take medicine or something for it?,7
+2798,"i've tried everything, but nothing works.",9
+2799,have you tried earplugs?,7
+2800,"they don't work, either.",12
+2801,spring break starts tomorrow.,34
+2802,are you going to go anywhere?,1
+2803,i was thinking of driving to arizona.,16
+2804,to the grand canyon?,7
+2805,yes. i've never been there.,41
+2806,i was there when i was a kid.,50
+2807,how did you like it?,2
+2808,i loved it. i still remember how amazing it was.,0
+2809,"i'm sure i'll like it, too.",29
+2810,you should try riding a mule on a trail to the bottom.,44
+2811,no way! i don't want to fall to my death.,31
+2812,that hotel was terrible.,8
+2813,the worst in the whole world.,8
+2814,the walls were so thin.,8
+2815,all day long we heard tvs or telephones.,44
+2816,all night long we heard people snoring.,34
+2817,housekeeping didn't give us fresh towels.,6
+2818,room service brought us a cold dinner.,8
+2819,our nonsmoking room stunk of cigarette smoke.,8
+2820,our room was right next to the elevator and the ice machine.,44
+2821,they added phony charges to our bill.,34
+2822,how did we end up in that terrible hotel?,1
+2823,i have to hang up. i'm so sleepy.,0
+2824,it's not even 10 o'clock.,6
+2825,i'm falling asleep on the phone.,16
+2826,you got up real early.,34
+2827,i had to take my friend to the airport.,35
+2828,why didn't you take a nap when you got home?,51
+2829,i didn't get home until 30 minutes ago.,0
+2830,why is that?,1
+2831,there was a bomb threat at the airport.,52
+2832,only a threat?,7
+2833,"yes, but i was stuck there all day while they looked for the bomb.",48
+2834,"my dad went to washington, d.c.",26
+2835,why did he do that?,1
+2836,"he was invited, along with about 90 other veterans.",47
+2837,who invited them?,2
+2838,some private organization.,44
+2839,why did they invite him?,2
+2840,to thank him and all the other soldiers who served in world war ii.,52
+2841,that's very nice.,8
+2842,my dad got to see the beautiful new world war ii monument.,44
+2843,that trip must have cost a lot of money. ,44
+2844,"that was a great trip to washington, d.c.",47
+2845,"tell me about it, dad.",48
+2846,about 90 of us world war ii veterans got on the plane at 8 a.m.,44
+2847,how long was the flight?,2
+2848,it only took about two hours.,34
+2849,did you take pictures at the world war ii monument?,51
+2850,"oh, yes. we all took lots of pictures.",26
+2851,then you flew back home that evening?,7
+2852,"yes. when we landed, tv reporters and the army band were there.",47
+2853,that must have made you feel really special.,52
+2854,"oh, it did. there were about 300 people there to honor us.",4
+2855,i need a job.,0
+2856,i thought you had a job.,16
+2857,i did.,10
+2858,what happened?,7
+2859,i got laid off.,0
+2860,that's terrible! when did it happen?,7
+2861,i got laid off last week.,16
+2862,just you?,2
+2863,"no, ten of my coworkers got laid off, too.",4
+2864,what are you going to do?,1
+2865,i'm looking in the newspaper for a job.,16
+2866,"before you go to that interview, check yourself.",4
+2867,what's to check?,1
+2868,are your nails clean?,7
+2869,"yes, they are.",12
+2870,did you double-check your nose and teeth?,43
+2871,"they are clean, too.",4
+2872,did you shine your shoes?,2
+2873,my shoes are shined.,6
+2874,do your socks match?,1
+2875,of course they match.,8
+2876,"no, they don't. one is black and one is dark blue.",26
+2877,life is hard.,8
+2878,it sure is.,6
+2879,i thought school was hard.,0
+2880,"me, too. i couldn't wait to graduate.",48
+2881,"but now work is hard, too.",4
+2882,i agree. work is just as hard as school.,31
+2883,sometimes i wish i was back in school.,50
+2884,"me, too. school was fun.",15
+2885,and it was only 12 years.,34
+2886,it went by pretty fast.,8
+2887,but work goes on forever!,21
+2888,i'm sleepy.,10
+2889,so am i.,6
+2890,i had a long day.,35
+2891,so did i.,6
+2892,i didn't even have lunch.,0
+2893,neither did i.,6
+2894,i was busy the whole day.,0
+2895,so was i.,6
+2896,i had to bring work home with me.,50
+2897,i did too.,10
+2898,your day was just like mine.,8
+2899,i don't like my job.,10
+2900,what do you do?,1
+2901,i'm a babysitter.,16
+2902,is that a lot of work?,7
+2903,babies cry all the time.,34
+2904,you have to change their diapers.,44
+2905,i have to feed them.,0
+2906,are you looking for another job?,1
+2907,"no, i'm looking for another family.",48
+2908,another family?,7
+2909,a family with only one baby.,44
+2910,i need a job.,0
+2911,what was your last job?,7
+2912,i was a painter.,16
+2913,what happened?,7
+2914,i got laid off because there was no work.,16
+2915,what else can you do?,7
+2916,i'm a handyman.,35
+2917,can you fix a dripping faucet in a kitchen sink?,13
+2918,of course.,6
+2919,then i have a job for you in my kitchen.,16
+2920,it will cost you only $20 plus parts.,37
+2921,what would you do if you lost your job?,1
+2922,i have no idea. i've been here for 20 years.,16
+2923,do you have any other skills?,7
+2924,"well, i know how to flip hamburgers.",19
+2925,no one would hire you to flip hamburgers.,8
+2926,have you heard something that you're not telling me?,38
+2927,what do you mean?,7
+2928,are there going to be layoffs at this place?,51
+2929,i certainly hope not!,18
+2930,"if you got laid off, you'd be flipping hamburgers, too.",45
+2931,"oh great, we could both work at burger king.",42
+2932,do your students ever talk about their jobs?,7
+2933,"yes, and they ask me what jobs are the best.",11
+2934,i tell my students to become a teacher.,16
+2935,teaching is a great job.,44
+2936,it's the best job i've ever had.,0
+2937,what makes it so good?,7
+2938,"for me, it's the students.",9
+2939,what do you mean?,7
+2940,i mean i have wonderful students.,0
+2941,that must be nice.,8
+2942,teaching is the best part of my whole day.,44
+2943,"boy, i'm glad that job is finished.",48
+2944,how long did it take?,1
+2945,"four hours, without a break.",42
+2946,it's always nice to finish a job.,44
+2947,"well, it's good and bad.",42
+2948,what's bad about it?,51
+2949,"when you finish, all you do is start another job!",59
+2950,"yes, that's right. it does get boring.",4
+2951,"especially if it's the same work, over and over.",47
+2952,but that's what most people do.,34
+2953,"yes, i guess most of us are stuck in a routine.",19
+2954,i think i have the worst boss in the world.,0
+2955,what makes him so bad?,51
+2956,he's rude and he yells a lot.,34
+2957,that's hard to take.,44
+2958,i've never heard him say please or thank you.,31
+2959,he sounds like a real jerk.,34
+2960,no one at work likes him.,8
+2961,can't you report him to his supervisor?,1
+2962,"of course not. if i do that, i'll lose my job.",28
+2963,"yes, they don't like troublemakers or complainers.",42
+2964,"i can't quit, because i'm making a good salary.",11
+2965,what are we going to do?,1
+2966,about what?,7
+2967,about finding a job for me.,16
+2968,you don't need a job. i make enough money for both of us.,30
+2969,that doesn't matter. i don't want to sit around.,31
+2970,"okay, what kind of job do you want?",25
+2971,i'm not sure.,10
+2972,"well, you should do something that you enjoy.",4
+2973,i enjoy selling. i was born to sell.,0
+2974,"okay, what do you want to sell?",25
+2975,cigarette lighters. i'll make a fortune.,16
+2976,a new hotel is looking for workers.,8
+2977,"yes, i saw it on the tv news.",9
+2978,they need 300 new workers.,6
+2979,"and 4,000 people showed up.",4
+2980,so many people are out of work.,8
+2981,"i still have my job, thank goodness.",48
+2982,"so do i, but i'm worried.",29
+2983,me too. there are no guarantees.,30
+2984,"if you lose your job, you can move in with me.",19
+2985,"oh, thank you. that's very nice of you.",26
+2986,you would do the same for me.,0
+2987,i think i did something real stupid.,50
+2988,what did you do?,1
+2989,i bought some stock.,10
+2990,everybody buys stock.,6
+2991,i bought it on a hunch.,0
+2992,you didn't read about the company first?,51
+2993,i didn't have to. it's been in business for 60 years.,30
+2994,so what's the problem?,1
+2995,i used all my savings on this one company.,35
+2996,you put all your eggs into one basket.,34
+2997,"if the company goes out of business, i'll have nothing.",48
+2998,i was going to be a doctor.,0
+2999,what happened to your plans?,51
+3000,i got a d in college chemistry.,0
+3001,"well, a d is better than an f.",47
+3002,a tutor helped me get the d!,18
+3003,"so, you didn't become a doctor.",4
+3004,and now i'm glad that i didn't.,16
+3005,why's that?,1
+3006,a hospital is the most dangerous place in the world.,52
+3007,"oh, yes, because of all the killer germs.",45
+3008,"if you're a smart doctor, you stay away from hospitals.",52
+3009,i want to be a mail carrier when i grow up.,16
+3010,why?,2
+3011,because you get to meet a lot of people.,34
+3012,you sure do.,6
+3013,and you get a lot of exercise every day.,44
+3014,that's the truth.,8
+3015,and you get to play with a lot of dogs.,44
+3016,"well, you're supposed to be working.",12
+3017,"yes, but i will always pet the friendly dogs.",48
+3018,what about the unfriendly dogs?,7
+3019,"i think if you are friendly to dogs, they are friendly to you.",9
+3020,i want to move to new york.,0
+3021,to the state or the city?,1
+3022,"to the city, of course.",12
+3023,why do you want to move there?,1
+3024,because i want to make a lot of money.,31
+3025,there are a lot of poor people in new york.,8
+3026,there sure areÂ—at least a million.,52
+3027,so how do you plan to become rich?,1
+3028,i will knock on the doors of all the corporations.,16
+3029,that won't make you rich. nobody will talk to you.,27
+3030,i will keep knocking on doors.,10
+3031,i love salads.,16
+3032,me too.,10
+3033,i usually eat a simple salad.,31
+3034,what do you put in it?,1
+3035,"just lettuce, tomato, and celery.",45
+3036,that's it?,1
+3037,i add some pepper and salt.,35
+3038,i always put cheese in my salads.,31
+3039,"yes, cheese is nice.",12
+3040,what kind of dressing do you use?,1
+3041,i pour lots of french dressing on top.,10
+3042,i love cheese.,10
+3043,me too.,10
+3044,where does cheese come from?,2
+3045,it comes from cows.,6
+3046,"so we get cheese from cows, and we get milk, too?",36
+3047,"yes, we do.",12
+3048,what else do we get from cows?,1
+3049,we get hamburgers and steak.,44
+3050,"oh, that's so delicious.",4
+3051,we also get leather.,34
+3052,"we get a lot of things from cows, don't we?",36
+3053,i used to work in a deli.,0
+3054,how did you like it?,2
+3055,i loved it!,18
+3056,did you get free food?,2
+3057,i ate free cheese and meat every day.,31
+3058,that sounds like a great job.,44
+3059,"whatever a customer ordered, i sliced off a little more for me.",56
+3060,did you get fat?,1
+3061,"no, but i did put on a few pounds.",19
+3062,that sounds like a dream job.,44
+3063,"it was, until one day my manager caught me.",11
+3064,i'm on a new diet.,0
+3065,what are you eating now?,7
+3066,i switched from pasta to potatoes.,35
+3067,why did you do that?,1
+3068,pasta is processed food. potatoes are natural food.,3
+3069,natural food has more vitamins.,52
+3070,and it's just as easy to prepare.,52
+3071,how do you prepare the potatoes?,7
+3072,"i wash them, and then steam them for 15 minutes.",11
+3073,that's pretty simple.,8
+3074,"then i add butter, salt, and pepper.",48
+3075,my girlfriend's mom got mad at me at the dinner table.,31
+3076,why was that?,1
+3077,i sprinkled salt and pepper on the food before i tasted it.,16
+3078,what's the matter with that?,51
+3079,her mom is a great cook.,34
+3080,"so, a little salt and pepper never hurt anything.",47
+3081,it hurt her feelings.,6
+3082,oh.,6
+3083,"i apologized to her, but i could tell she was still upset.",28
+3084,maybe you shouldn't eat there again.,52
+3085,i'm sure everything will be okay in a day or two.,35
+3086,i eat the same thing every day.,35
+3087,you're kidding.,6
+3088,"no, i'm serious.",9
+3089,doesn't that get old?,1
+3090,"no, because i'm eating food that i like.",56
+3091,but the same thing day after day gets old.,52
+3092,"well, i guess if it ever does get old, i'll change to something different.",19
+3093,do you eat fruits and vegetables every day?,13
+3094,"no, i hate vegetables.",48
+3095,but you eat fruits.,8
+3096,"i eat two apples, one banana, and one orange every day.",59
+3097,there's something wrong with my orange.,8
+3098,what's wrong?,1
+3099,it's not orange!,32
+3100,your orange isn't orange?,7
+3101,"no, it's dark pink!",45
+3102,are you sure? i never heard of such a thing.,23
+3103,"i just peeled it, and i'm looking at it right now.",56
+3104,"let me see. yes, you're right. your orange is pink.",15
+3105,who ever heard of such a thing?,7
+3106,"oh, look. here's the little sticker that was on it. it's called a pink navel.",26
+3107,what is this world coming to?,1
+3108,i love peanuts.,0
+3109,"me, too. i love them roasted and salted.",48
+3110,i love boiled peanuts.,0
+3111,boiled? i never heard of that.,23
+3112,just boil raw peanuts in salt water until the shells are soft.,52
+3113,i'll have to try them sometime.,0
+3114,they're best when they're hot.,6
+3115,my brother is allergic to peanuts.,34
+3116,that's not good.,8
+3117,"no, it isn't. he almost died when he was little.",4
+3118,i guess he has to be very careful about what he eats.,31
+3119,i'm gaining weight.,0
+3120,how much have you gained?,7
+3121,three pounds just this month.,6
+3122,do you know why?,2
+3123,i think it's the ice cream.,0
+3124,you started eating ice cream?,51
+3125,it was on sale.,8
+3126,how much did you buy?,2
+3127,i filled up my freezer with ice cream.,0
+3128,"well, it won't last forever.",4
+3129,"no, i figure i'll finish it all by next week.",28
+3130,i'm stuffed.,10
+3131,of course you are. you ate everything on the table.,8
+3132,i don't like to eat leftovers.,0
+3133,i'm glad to hear there's something you don't like to eat.,35
+3134,i like my food hot and fresh.,0
+3135,you like to see it disappear.,34
+3136,i don't like it reheated.,0
+3137,"well, you'll have hot fresh food tomorrow night.",4
+3138,i'm so full i'm going to burst.,10
+3139,you should loosen your belt.,6
+3140,i already loosened my belt and unbuttoned my pants.,31
+3141,i saw what you did.,0
+3142,i didn't do anything.,0
+3143,"oh yes, you did.",12
+3144,what are you talking about?,51
+3145,you know what i'm talking about.,35
+3146,i don't have any idea.,35
+3147,you know what you did.,8
+3148,"maybe i know, but how could you know?",46
+3149,because i was watching you.,16
+3150,"okay, i'm sorry i did it.",28
+3151,don't drink milk out of the carton. use a glass!,37
+3152,i like that shirt.,0
+3153,so do i.,6
+3154,how much is it?,2
+3155,i don't know. the tag is missing.,30
+3156,ask the clerk.,8
+3157,i will.,10
+3158,"oh, look. here's another shirt just like it.",4
+3159,does it have a price tag?,51
+3160,"yes, it does. it's only $20.",15
+3161,that's a great price.,44
+3162,i think i'll buy both of them.,10
+3163,i bought you a pair of pants.,35
+3164,thank you.,8
+3165,i hope they fit.,10
+3166,i hope you kept the receipt.,10
+3167,you think they won't fit?,2
+3168,i think i've put on some weight.,10
+3169,you think?,2
+3170,maybe a pound or two.,34
+3171,maybe four or five pounds?,1
+3172,my waist is bigger than it was.,34
+3173,no problem. these pants have an elastic waistband.,44
+3174,what do we need to buy?,1
+3175,let me look at our list.,0
+3176,i know that we need milk.,0
+3177,nonfat.,8
+3178,of course. what else?,14
+3179,"we need cheese, bread, and ham.",45
+3180,what kind of cheese?,1
+3181,swiss.,6
+3182,"of course, the cheese with holes in it.",12
+3183,i never used to buy swiss cheese.,10
+3184,why not?,2
+3185,i need some pants.,0
+3186,i thought you just bought a pair.,16
+3187,i did.,10
+3188,what's wrong with them so soon?,1
+3189,"the pants are fine, but the pocket has a huge hole in it.",47
+3190,you shouldn't carry your keys and pens in your pocket.,34
+3191,but that's what pockets are for.,34
+3192,you should carry them in a purse.,34
+3193,"i'm a man, and men don't carry purses!",59
+3194,"well, you should buy pants with stronger pockets.",4
+3195,i would if i could find someone who makes strong pockets.,50
+3196,what are those wipes for?,1
+3197,you use them to wipe the handle of the shopping cart.,34
+3198,that's a great idea.,52
+3199,"yes, all the markets just started offering wipes to shoppers.",47
+3200,i'm going to take five wipes.,0
+3201,what do you need five of them for?,1
+3202,"one to wipe the handle, and the others to wipe the produce.",42
+3203,what's the matter with the produce?,7
+3204,do you think the bananas fell from the sky?,13
+3205,what do you mean?,7
+3206,"i mean, someone used their dirty hands to pick the bananas, the apples, and the oranges.",59
+3207,did you go to the 99 cents store?,2
+3208,"yes, i did.",9
+3209,what did you buy?,1
+3210,"well, i got a lot of good deals, as usual.",11
+3211,like what?,1
+3212,"well, a dozen large eggs were only 99 cents.",42
+3213,that's a good deal.,44
+3214,and a one-pound tub of soft butter was the same price.,37
+3215,another good deal.,34
+3216,but the best deal was five pounds of potatoes for 99 cents.,34
+3217,i don't know how that store makes money.,16
+3218,i need a new computer.,0
+3219,what's the matter with yours?,7
+3220,it's six years old.,8
+3221,that's pretty old.,8
+3222,"it still works, but i'm going to give it to a charity.",48
+3223,are you going to buy a desktop or laptop?,7
+3224,"oh, a laptop, of course.",45
+3225,a pc or a mac?,51
+3226,i haven't decided yet.,0
+3227,more and more people are using macs.,34
+3228,but 90 percent of the world uses pcs.,6
+3229,i got ripped off.,10
+3230,what happened?,7
+3231,"i had a car problem, so i went online.",56
+3232,did you find a solution?,1
+3233,"yes, i did. a site i went to said they would send me the solution.",28
+3234,"so, what's the problem?",36
+3235,"i sent them $20 using my credit card, but they never sent me the solution.",28
+3236,what are you going to do?,1
+3237,i sent them an email asking for my money back.,31
+3238,have you heard from them?,7
+3239,not yet. it's been a week.,54
+3240,where's the pencil sharpener?,1
+3241,which one?,2
+3242,any one. i need to sharpen this pencil.,30
+3243,i think there's one on the dining room table.,0
+3244,i already looked there.,16
+3245,did you look in the desk drawer?,1
+3246,"yes, i looked there, too.",9
+3247,don't we have about five sharpeners?,51
+3248,"yes, but they seem to have legs.",4
+3249,tomorrow i'm going to buy an electric sharpener.,16
+3250,get one with the rubber suction cups on the bottom.,6
+3251,i'm trying to stretch my dollars.,0
+3252,how are you doing that?,1
+3253,i started shopping at the dollar store.,35
+3254,that saves a lot of money.,44
+3255,i bought three pounds of potatoes for a dollar.,35
+3256,that's a good deal.,44
+3257,"yes, even though some of the potatoes had eyes.",42
+3258,just put them in the fridge.,6
+3259,"also, i bought a can of cheap coffee and a bag of good coffee.",59
+3260,why did you do that?,1
+3261,i mixed them together.,10
+3262,i really like this house.,0
+3263,can we afford it?,7
+3264,they want 20 percent down.,8
+3265,that's a lot of money.,34
+3266,but the house is so nice.,6
+3267,it's in a great neighborhood.,34
+3268,it's close to the beach.,8
+3269,it's close to the freeways.,8
+3270,it's got a big yard.,34
+3271,"the kids love the house, too.",12
+3272,"if we don't buy it, someone else will.",12
+3273,we can't afford this house.,34
+3274,are you sure?,2
+3275,"we will be house rich, but cash poor.",4
+3276,what do you mean?,7
+3277,our monthly payments will be too high.,8
+3278,we won't have any money for other things?,7
+3279,"no, we won't have money for gas or food.",42
+3280,we'll be eating peanut butter sandwiches?,51
+3281,without the peanut butter!,32
+3282,that's no good!,32
+3283,we have to find a cheaper house.,44
+3284,that is a beautiful house.,44
+3285,i don't like it.,10
+3286,what's the matter with it?,7
+3287,it's on the corner.,6
+3288,so?,2
+3289,that means it gets twice as much traffic.,52
+3290,you're right.,6
+3291,"when you're inside, you will always hear cars stopping and stopping at the intersection.",52
+3292,or you'll hear the collision if someone doesn't stop.,8
+3293,or you'll see the collision if they crash into the house.,8
+3294,let's find a house that's at the end of a dead end.,52
+3295,i hate looking for an apartment.,31
+3296,"me, too.",9
+3297,we have a 2 o'clock appointment to see the one on main street.,52
+3298,we'd better get ready to go.,8
+3299,it's an upstairs unit.,34
+3300,"that's good, because i don't want to live under people with loud feet.",11
+3301,and it's a corner unit.,34
+3302,that's great. we won't have neighbors on both sides of us.,27
+3303,no pets are allowed.,8
+3304,perfect. we don't have to listen to barking dogs.,8
+3305,and there are only six units in the whole building.,8
+3306,did you call the manager?,51
+3307,yes. he said he'd come over tomorrow.,54
+3308,did he say what time?,7
+3309,yes. he said he'd be here at 9 o'clock.,8
+3310,did he understand what the problem is?,7
+3311,yes. i told him our doorbell doesn't work.,41
+3312,it shouldn't take him long to fix it.,8
+3313,i don't even know why we need to fix it.,10
+3314,in case we have visitors.,34
+3315,but they can just knock on the door.,8
+3316,"actually, i want him to look at our carpet, too.",11
+3317,do you like this house?,2
+3318,"yes, it's beautiful.",4
+3319,it's perfect for us and the kids.,8
+3320,"three bedrooms, three bathrooms, and a big back yard.",47
+3321,and we can afford it!,32
+3322,so are we going to buy it?,2
+3323,i'm afraid not.,16
+3324,"it's too far from your job, isn't it?",36
+3325,i can't spend four hours on the road every day.,35
+3326,"by the time you get home, you'll be too tired to even eat.",4
+3327,i won't be able to play with the kids.,16
+3328,"boy, it's chilly outside, isn't it?",36
+3329,it sure is.,6
+3330,"in fact, it's chilly in the apartment, too.",45
+3331,let's turn on the heat.,8
+3332,i'll check to make sure that all the windows are shut.,35
+3333,it should be warmer in a few minutes.,34
+3334,it's so nice to have a heated apartment.,52
+3335,how did they survive in the old days?,1
+3336,they had fireplaces.,34
+3337,someone had to chop the wood.,8
+3338,and carry it into the house.,34
+3339,this is a nice neighborhood.,8
+3340,the streets are clean and quiet.,34
+3341,the neighbors don't party on the weekends.,8
+3342,people take care of their lawns.,44
+3343,no rusty old cars are sitting in the front yards.,34
+3344,we never have to call the police about anything.,52
+3345,our kids are completely safe.,8
+3346,so why are we selling our house?,2
+3347,they're building a 3-story apartment building on the corner.,37
+3348,so we've got to sell before property values go down?,1
+3349,yes. i still can't believe our city council allowed this building.,30
+3350,that was a huge fire in santa barbara.,52
+3351,"yes, it was.",12
+3352,they said about 30 houses burned to the ground.,34
+3353,and they were expensive houses.,8
+3354,i feel so sorry for those people.,10
+3355,why feel sorry for rich people?,2
+3356,i feel sorry for anyone who loses their home.,0
+3357,"so do i, but not if they're rich.",9
+3358,what does that have to do with it?,51
+3359,rich people think they're better than us.,8
+3360,how many rich people do you know?,1
+3361,bears are invading our neighborhoods.,34
+3362,of course they are. they're starving to death.,8
+3363,they should stay in the woods where they belong.,8
+3364,there's no food in the woods.,6
+3365,can't they eat grass?,51
+3366,do you think a bear is a cow?,51
+3367,"well, i've seen them eating berries.",19
+3368,berries aren't in season all year round.,44
+3369,it's too dangerous for kids and pets.,34
+3370,people need to cover their trash cans.,34
+3371,the police need to shoot all the bears.,34
+3372,who did you vote for?,2
+3373,i voted for obama.,16
+3374,me too.,10
+3375,he will be a great president.,34
+3376,everyone likes him.,6
+3377,he's a good speaker.,34
+3378,and he's really smart.,44
+3379,he will solve our problems.,6
+3380,he will end the war.,8
+3381,the next four years will be good years.,34
+3382,"i'll vote for him next time, too.",9
+3383,the election is next week.,6
+3384,who are you voting for?,2
+3385,i'm not voting for the mayor.,0
+3386,why not?,2
+3387,he made promises that he didn't keep.,34
+3388,like what?,1
+3389,"he promised to hire 1,000 more police officers.",12
+3390,how many did he hire?,1
+3391,one hundred!,21
+3392,maybe he had a good reason.,52
+3393,maybe he's just a liar.,44
+3394,i can't believe he won the election.,0
+3395,only 15 percent of the voters turned out.,6
+3396,that is a joke.,34
+3397,"voting is so important, but people don't bother.",4
+3398,many people think their vote doesn't matter.,34
+3399,"the mayor won by only 2,000 votes.",4
+3400,we're stuck with him for four more years.,8
+3401,voting is so easy. you can even mail your ballot in.,34
+3402,all you have to do is vote and put a stamp on it.,52
+3403,how easy is that?,7
+3404,i guess people just don't care.,0
+3405,"well, we have a new president.",42
+3406,but we have the same old problems.,34
+3407,"well, he's made a few changes.",47
+3408,like what?,1
+3409,i think he closed the bowling alley in the white house.,0
+3410,"oh, yeah. he's changing it to a basketball court.",47
+3411,who's paying for that?,7
+3412,i think we are!,18
+3413,"well, that's okay, as long as it helps him relax and think more clearly.",47
+3414,"yes, we need a relaxed president who thinks clearly.",47
+3415,do any other world leaders have a basketball court?,39
+3416,people say that everybody loves obama.,52
+3417,"well, more than 50 million people voted for mccain.",42
+3418,that's 50 million people who don't love obama.,44
+3419,obama's got four years to make everyone happy.,52
+3420,he's never going to make everyone happy.,34
+3421,can you imagine being president?,7
+3422,everyone wants you to solve their problems.,8
+3423,i have enough stress from trying to solve my own problems.,0
+3424,you and everybody else.,8
+3425,i would never want to be president.,0
+3426,but think about all the power you'd have.,44
+3427,did you read this article?,7
+3428,what article?,7
+3429,it says the mayor spends only 11 percent of his time on city duties.,34
+3430,only 11 percent?,2
+3431,about 50 percent of the time he's traveling.,34
+3432,where does he travel to?,1
+3433,"oh, all over the world.",4
+3434,but he's supposed to be making our city a better place.,44
+3435,he's visiting other cities to get ideas.,8
+3436,can't he just go online?,1
+3437,the rest of the time he's raising money for his reelection.,8
+3438,who did you vote for for president?,2
+3439,i voted for ralph nader.,16
+3440,who in the world is ralph nader?,7
+3441,he's the best man for president.,8
+3442,why's that?,1
+3443,he hates corporations.,34
+3444,"well, most corporations do think only about money.",42
+3445,he hates democrats and republicans.,52
+3446,"well, they do put their party before their country.",4
+3447,he's the only candidate that i trust.,35
+3448,but he didn't have a chance. nobody voted for him!,37
+3449,i don't know why i bother to vote.,10
+3450,why's that?,1
+3451,what good does it do?,1
+3452,you get to put someone in power that you like.,8
+3453,only if my candidate wins.,34
+3454,"well, he can't win unless you and others vote for him.",42
+3455,"but even if my candidate wins, he'll break his promises.",47
+3456,that's true. they promise anything just so they get elected.,8
+3457,"and when elected, they go their own way.",42
+3458,they forget who put them in power.,6
+3459,they forget where they came from.,6
+3460,that election for u.s. senator stunk.,54
+3461,what do you mean?,7
+3462,there were more votes than voters!,32
+3463,but that's impossible.,8
+3464,officials said that it's possible.,44
+3465,did they explain how it's possible?,1
+3466,no. they said there are some things you can't explain.,27
+3467,so are they going to hold another election?,1
+3468,no. that will cost too much money.,54
+3469,so it's better to save money than to have an honest election?,13
+3470,"well, the democratic party says it was an honest election.",47
+3471,i see that former president bush is at a conference.,35
+3472,yes. he's telling jokes about his eight years as president.,27
+3473,"yes, those eight years were a lot of fun for everyone.",42
+3474,"only 4,000 american soldiers were killed overseas.",47
+3475,"not to mention 40,000 wounded soldiers.",12
+3476,but bush visited some of them in the hospital once.,8
+3477,that's nice that he found the time to make a visit.,52
+3478,he spoke to them and made them feel better.,44
+3479,did he speak to every family that lost a soldier?,13
+3480,"no, he didn't have time to do that.",42
+3481,"well, he's got plenty of time now!",9
+3482,did you get your official sample ballot?,51
+3483,"yes, with the voter instructions.",12
+3484,how are you going to vote?,2
+3485,"same as ever, by mail. all it costs me is a 42-cent stamp.",59
+3486,"i meant, are you going to vote for or against the new taxes?",60
+3487,"against all of them, of course.",47
+3488,"but we need new taxes to pay for highways, schools, and prisons.",42
+3489,we've already voted for new taxes to pay for all that stuff!,32
+3490,that's true. where did that money go?,49
+3491,our legislators spent it on first-class travel all over the world.,37
+3492,they are having a good time with our money.,34
+3493,have you decided how you are going to vote?,1
+3494,"do you mean on measures 1, 2, and 3?",57
+3495,"yes. the ones that will improve our schools, roads, and hospitals.",42
+3496,you mean the measures that will raise our taxes.,52
+3497,but the tv ads say that our taxes will not increase.,52
+3498,do you believe the tv ads?,1
+3499,i like the one where the fireman tells us why we should vote yes.,0
+3500,"don't believe him! whatever the tv ads tell you, the opposite is true.",42
+3501,"but the title of measure 1 is """"better schools at no cost.",5
+3502,"the title should be """"better schools at huge cost.",5
+3503,i can't believe that they would lie to us.,16
+3504,i have a stomachache.,31
+3505,is it something you ate?,1
+3506,maybe. i'm not sure.,30
+3507,what did you have for breakfast?,13
+3508,"the usual, cereal with milk and a banana.",52
+3509,maybe the milk was bad.,34
+3510,it didn't smell bad.,8
+3511,maybe the banana was bad.,52
+3512,"no, the banana was delicious.",47
+3513,maybe you just need to go to the bathroom.,34
+3514,"no, that's not the problem.",4
+3515,what's this stain?,7
+3516,i don't know.,10
+3517,it looks like blood.,6
+3518,i think my nose was bleeding.,10
+3519,you should wet your shirt immediately.,8
+3520,why?,2
+3521,because that gets the blood out of the shirt.,34
+3522,what's a little blood?,7
+3523,your white shirt is ruined.,6
+3524,"so, i'll just buy another one.",19
+3525,you can wear this one around the house.,44
+3526,my fingers hurt.,6
+3527,why do they hurt?,2
+3528,i type too much.,10
+3529,you should take a break.,44
+3530,i need to type to make money.,0
+3531,but typing is causing you pain.,34
+3532,maybe i should see a doctor.,16
+3533,doctors are too expensive.,6
+3534,he might tell me to rest for a while.,0
+3535,he might want to cut you open.,8
+3536,he might say i'm okay.,16
+3537,what did the doctor say?,7
+3538,he thinks i have too much stress.,0
+3539,stress causes your stomachaches?,51
+3540,stress causes different problems with different people.,8
+3541,so what did he tell you to do?,1
+3542,he said i need to think positive.,0
+3543,he didn't give you any medication?,7
+3544,i hate medication. it makes me feel different.,16
+3545,so how do you think positive?,2
+3546,i think about nice things.,0
+3547,like what?,1
+3548,i cut my finger.,10
+3549,how did you do that?,1
+3550,it's a paper cut.,34
+3551,paper can be dangerous.,44
+3552,"it hurts, too.",12
+3553,paper cuts can hurt a lot.,44
+3554,where are the band-aids?,43
+3555,i think they're in the medicine cabinet.,0
+3556,it's on the tip of my finger.,6
+3557,a band-aid might not work.,37
+3558,i must not use this finger until the cut heals.,0
+3559,do you smell that?,1
+3560,"oh, yes.",12
+3561,i can't stand cigarette smoke.,35
+3562,it smells so bad.,8
+3563,one cigarette stinks up the whole sidewalk.,34
+3564,smokers think they are so cool.,6
+3565,they are so weak.,8
+3566,a little cigarette controls them.,34
+3567,they look so stupid taking a puff.,34
+3568,and then they blow smoke out of their mouth.,8
+3569,they think it's cool.,6
+3570,do you have a cold?,7
+3571,"yes, i do.",9
+3572,how did you get it?,2
+3573,my sister had a cold. she gave it to me.,30
+3574,have you taken anything for your cold?,51
+3575,"no, i just blow my nose a lot.",19
+3576,your nose is stopped up?,2
+3577,yes. i have to breathe through my mouth.,30
+3578,have you tried nose drops?,1
+3579,"no, i don't like nose drops.",9
+3580,they work great.,8
+3581,"would you put suntan lotion on my back, please?",25
+3582,sure.,6
+3583,thank you.,8
+3584,you shouldn't lie in the sun for too long.,6
+3585,i want to get a tan. i don't want to look so pale.,35
+3586,what's wrong with looking pale?,7
+3587,people think you might be sick.,6
+3588,who thinks that?,1
+3589,i don't know.,10
+3590,it's better to be pale than to have skin cancer.,52
+3591,i know that.,0
+3592,i can't quit smoking.,0
+3593,of course you can.,8
+3594,i don't have enough will power.,0
+3595,of course you do.,6
+3596,i wish i had never started.,0
+3597,so does every smoker.,6
+3598,i've tried to quit so many times.,0
+3599,so has everyone else.,8
+3600,nothing seems to work.,6
+3601,"all it takes is will power, and you have it.",47
+3602,then why can't i quit?,24
+3603,my back is killing me.,0
+3604,what did you do?,1
+3605,i got out of my car.,0
+3606,that's it?,1
+3607,i injured my back one time just by sneezing.,0
+3608,you should see a doctor.,8
+3609,my doctor said i need surgery.,0
+3610,so?,2
+3611,"so, forget it.",12
+3612,you don't have the money?,1
+3613,i have no insurance.,16
+3614,my brother smokes three packs a day.,44
+3615,three packs of what?,7
+3616,"cigarettes, of course.",4
+3617,how can he do that?,7
+3618,"when he is almost finished with one cigarette, he uses it to light another.",47
+3619,he's a chain smoker.,34
+3620,he's been a chain smoker for 30 years.,44
+3621,that's unbelievable. can he still breathe?,49
+3622,"he can, but the people around him can't.",47
+3623,how can he still be alive?,7
+3624,his doctor says his heart and lungs are strong and healthy.,52
+3625,i hate brushing my teeth.,0
+3626,it's such a chore.,8
+3627,"brush, brush. spit, spit.",12
+3628,what did they do in the old days?,7
+3629,they brushed with their fingers.,6
+3630,they also ate with their fingers!,32
+3631,why do they call it the good old days?,7
+3632,maybe because they didn't have to brush and floss.,52
+3633,who invented flossing?,2
+3634,"a dentist, i'm sure.",19
+3635,i hate flossing more than brushing!,56
+3636,let's stop for a while. i need a break and some water.,31
+3637,this trail is hard to climb.,34
+3638,especially on a hot day like this.,44
+3639,i can't believe we haven't seen any animals.,31
+3640,thank goodness! i don't want to see any wild animals.,31
+3641,all we've seen so far is a couple of lizards.,52
+3642,"we're hiking to lose weight, not to see goats and bears.",47
+3643,i bet i've lost a couple of pounds already.,16
+3644,all you've lost is some sweat.,34
+3645,i haven't even lost one pound of fat?,38
+3646,"if you want to lose fat, you've got to do this hike every day.",47
+3647,"oh no, another pimple on my face.",42
+3648,pimples suck.,6
+3649,it seems like i get a new pimple almost every day.,35
+3650,maybe it's something in your diet.,8
+3651,"no, i eat the same things day after day.",59
+3652,then maybe it's in your genes.,8
+3653,you might be right.,6
+3654,do pimples run in your family?,1
+3655,not that i've noticed.,0
+3656,"well, maybe it's from the pollution in the air.",42
+3657,"whatever the cause, i hate seeing them on my face.",11
+3658,do you believe everything you hear?,1
+3659,i don't believe anything i don't see with my own eyes.,50
+3660,you can't believe what you hear on tv or radio.,52
+3661,you can't believe what you read in the newspapers.,52
+3662,everyone tells you a different story about the same thing.,44
+3663,three different people will give you three different stories.,6
+3664,and the government will give you a fourth story.,34
+3665,"yes, like the government says not to worry about the swine flu.",42
+3666,but the swine flu just killed 20 people in mexico.,6
+3667,the government says we have nothing to worry about.,44
+3668,then why are some schools telling the kids to stay home?,1
+3669,don't pick your nose.,6
+3670,i wasn't picking my nose.,10
+3671,what were you doing?,1
+3672,i was scratching my nose.,0
+3673,i think i know the difference between picking and scratching.,0
+3674,"okay, mom, maybe i was picking it a little bit.",48
+3675,use a tissue next time.,8
+3676,i didn't have a tissue.,16
+3677,then wait till you find a tissue.,34
+3678,i couldn't wait. it was an emergency.,30
+3679,"oh, really? maybe you should have called 911.",25
+3680,our tv remote is filthy.,6
+3681,"yes, it's covered with crud.",12
+3682,i'm going to clean it.,0
+3683,don't use water on it!,32
+3684,i'll use a damp cloth.,16
+3685,don't let water get into any of the cracks.,44
+3686,i'll squeeze the cloth so it's almost dry.,0
+3687,don't rub the numbers off the remote.,6
+3688,i will rub gently but firmly.,10
+3689,"do it quickly, please, so i can change channels during commercials.",11
+3690,i'll give it back to you in a couple of minutes.,16
+3691,my ear is killing me.,0
+3692,what's the matter?,7
+3693,i was on a plane.,16
+3694,so?,2
+3695,"so, every time the plane goes up, my ear starts to hurt.",45
+3696,that's no good.,8
+3697,"sometimes the pain goes away, and sometimes it doesn't.",47
+3698,have you seen a doctor?,7
+3699,i've been to two doctors.,10
+3700,and they couldn't fix your problem?,1
+3701,they both said i have to live with it.,16
+3702,did you see the woman with the new face?,7
+3703,did she get a nice job?,1
+3704,"she got an """"everything"""" job!",5
+3705,what do you mean?,7
+3706,a team of doctors gave her a whole new face.,52
+3707,why did they do that?,1
+3708,a mad dog bit most of her face off.,44
+3709,"oh, that's terrible. what does she look like now?",57
+3710,"her face is really fat, but they say the swelling will go down.",47
+3711,and then will she look normal again?,13
+3712,i guess so.,10
+3713,there's something wrong with my right hand.,8
+3714,what's wrong with it?,1
+3715,it aches most of the time.,8
+3716,what do you think it is?,1
+3717,i don't know. i think it's old age.,0
+3718,"if it's old age, why don't both of your hands hurt?",57
+3719,that's a good question. maybe it's not old age.,34
+3720,are you right-handed?,43
+3721,yes. all my life.,54
+3722,you're wearing out your right hand. stop using it so much.,8
+3723,but i do all my writing with my right hand.,16

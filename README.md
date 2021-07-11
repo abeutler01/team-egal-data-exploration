@@ -4,7 +4,7 @@ Dieses Projekt dient der Entwicklung eines Smalltalk-Chatbots, welcher dazu in d
 
 
 
-- Ordnerstruktur 
+Ordnerstruktur 
 
 Das Repository ist wie folgt aufgebaut:
 
@@ -15,7 +15,7 @@ Das Repository ist wie folgt aufgebaut:
 
 
 
-- Hinweise zur Ausführung des Codes 
+Hinweise zur Ausführung des Codes 
 
 Die ausführbare Python-Datei mit der Bezeichnung „Chatbot_app.py“ findet sich im GitHub Repository im Ordner „Chatbot_Complete“. 
 Diesen Ordner als ganzen downloaden und lokal speichern. Darauf die Python-Datei mit der IDE ihres Vertrauens öffnen und darauf achten, dass sich im selben Ordner wie die Python-Datei auch die CSV-Dateien „Answers.csv“ und „cluster_model.csv“ befinden. 

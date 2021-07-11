@@ -1,4 +1,5 @@
 # team-egal-data-exploration
+
 Dieses Projekt dient der Entwicklung eines Smalltalk-Chatbots, welcher dazu in der Lage sein soll, auf Input in Form von Texteingaben algorhitmusgesteuert passende Antworten in Form von Text als Output zurückzugeben. 
 
 

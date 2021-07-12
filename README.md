@@ -22,5 +22,7 @@ Hinweise zur Ausführung des Codes
 - Achten sie daruaf, dass sich sich im selben Ordner wie die Python-Datei auch die CSV-Dateien „Answers.csv“ und „cluster_model.csv“ befinden. 
 - Nachfolgend kann die Python-Datei via der Kommandozeile oder mit der IDE Ihres Vertrauens öffnen
 - Für die Ausführung des Codes sind die Python Libraries pandas, gensim, spaCy und das Framework Scikit erforderlich, falls nicht schon geschehen, diese downloaden. 
+- Der Chatbot wurde für Windows ausgelegt, sollte er auf einem MacOS Rechner ausgeführt werden, ersetzen sie die „chatbot_app.py“ durch die „Chatbot_app_macOS.py“ welche im github zu finden ist
 - Wenn die oben genannten Schritte durchgeführt wurden, sollte die Kommandozeile folgenden Text zurückggeben: " Hello, this is SmallTalkBot, I am booting up, please be patient.". 
 - Dann müssen Sie sich noch einen Moment gedulden, bis alles geladen wurde. Danach steht der Chatbot zu Ihrer Verfügung! 
+

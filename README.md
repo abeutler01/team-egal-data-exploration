@@ -8,18 +8,19 @@ Ordnerstruktur
 
 Das Repository ist wie folgt aufgebaut:
 
-- Im Ordner Archive befinden sich die Jupyter Notebooks, welche zum lernen des Cluster- und Klassifikator-Modells genutzt wurden.
-- Im Ornder DataExports befindnen sich die aus dem Clusterings entstandenen annotierten Datensätze. 
+- Im Ordner Archive befinden sich die Jupyter Notebooks, welche zum testen des Cluster- und Klassifikator-Methoden genutzt wurden, aber letzlich nicht implementiert wurden.
+- Im Ornder DataExports befindnen sich alle aus dem Clusterings entstandenen annotierten Datensätze. 
 - Im Ordner Experimental befinden sich Jupyter-Notebooks, in denen verschiedene Cluster- und Klassifikations-Methoden ausprobiert wurden. 
-- Der Ordner Chatot_Complete.zip enthält die Chatbot_app als Python-File, sowie die nötigen Datensätze bestehend aus den Clustern und den vorgefertigten Antworten.
 
+- Der Ordner Chatot_Complete.zip enthält die Chatbot_app als Python-File, sowie die nötigen Datensätze bestehend aus den Clustern und den vorgefertigten Antworten.
 
 
 Hinweise zur Ausführung des Codes 
 
 - Die ausführbare Python-Datei mit der Bezeichnung „Chatbot_app.py“ findet sich im GitHub Repository im Ordner „Chatbot_Complete“. 
 - Diesen Ordner als ganzen downloaden und lokal speichern. 
-- Nachfolgend die Python-Datei mit der IDE Ihres Vertrauens öffnen und darauf achten, dass sich im selben Ordner wie die Python-Datei auch die CSV-Dateien „Answers.csv“ und „cluster_model.csv“ befinden. 
+- Achten sie daruaf, dass sich sich im selben Ordner wie die Python-Datei auch die CSV-Dateien „Answers.csv“ und „cluster_model.csv“ befinden. 
+- Nachfolgend kann die Python-Datei via der Kommandozeile oder mit der IDE Ihres Vertrauens öffnen
 - Für die Ausführung des Codes sind die Python Libraries pandas, gensim, spaCy und das Framework Scikit erforderlich, falls nicht schon geschehen, diese downloaden. 
-Dann den Code ausführen, wenn die oben genannten Schritte durchgeführt wurden, sollte die Kommandozeile folgenden Text zurückggeben: " Hello, this is SmallTalkBot, I am booting up, please be patient.". 
+- Wenn die oben genannten Schritte durchgeführt wurden, sollte die Kommandozeile folgenden Text zurückggeben: " Hello, this is SmallTalkBot, I am booting up, please be patient.". 
 - Dann müssen Sie sich noch einen Moment gedulden, bis alles geladen wurde. Danach steht der Chatbot zu Ihrer Verfügung! 

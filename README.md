@@ -11,6 +11,7 @@ Das Repository ist wie folgt aufgebaut:
 - Im Ordner Archive befinden sich die Jupyter Notebooks, welche zum testen des Cluster- und Klassifikator-Methoden genutzt wurden, aber letzlich nicht implementiert wurden.
 - Im Ornder DataExports befindnen sich alle aus dem Clusterings entstandenen annotierten Datensätze. 
 - Im Ordner Experimental befinden sich Jupyter-Notebooks, in denen verschiedene Cluster- und Klassifikations-Methoden ausprobiert wurden. 
+- Die Dokumentation ist als Projektreport.pdf im Hauptordner zu finden
 
 - Der Ordner Chatot_Complete.zip enthält die Chatbot_app als Python-File, sowie die nötigen Datensätze bestehend aus den Clustern und den vorgefertigten Antworten.
 
